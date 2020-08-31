@@ -1,0 +1,46 @@
+<html>
+
+<head>
+  <link type="text/css" rel="stylesheet" media="all" href="dist/styles/h5p.css" />
+  <link href="https://fonts.google.com/specimen/Patrick+Hand?selection.family=Acme#standard-styles">
+  <meta charset="utf-8" />
+  <script type="text/javascript" src="dist/main.bundle.js"></script>
+  <style>
+    .outer {
+      align-items: center;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .inner {
+      width: 50%; /* Ou a que você quiser. */
+    }
+    .title {
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: 24px;
+      margin-left: 20%;
+      margin-right: 20%;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="outer">
+    <div class="title">Clique no Raphael quando você encontrá-lo e se você clicou na pessoa errada, clique na setinha azul para tentar novamente.</div>
+    <div class="inner" id="h5p-container"></div>
+  </div>
+
+  <script type="text/javascript">
+    const {
+      H5P
+    } = H5PStandalone;
+    new H5P(document.getElementById('h5p-container'), 'procurando', {
+      frameJs: 'dist/frame.bundle.js',
+      frameCss: 'dist/styles/h5p.css'
+    });
+  </script>
+</body>
+
+</html>
