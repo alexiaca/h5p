@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6">
+    <config>
+          <recursos>$C:\Users\Cristiane\Documents\Jogo Edilim\Recursos\</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="..\Recursos\Vivas.mp3" modo="1" >PARABÉNS!!!</correcto>
+        <incorrecto son="..\Recursos\errou_faustao_toquesengracadosmp3.com.mp3" modo="1" >ERROU!!!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>24</tipo>
+              <cabeceira> “30% de todo o alimento que produzimos vai para o lixo&quot;. O gráfico pintado de roxo representa 30%.Selecione a figura correspondente a 30% e a figura correspondente a QUANTIDADE DE ALIMENTOS QUE NÃO VAI PARA O LIXO, isto é, 70%.</cabeceira>
+              <etiqueta imaxe="..\Recursos\trintaporcento.png" texto="30%">1</etiqueta>
+              <etiqueta imaxe="..\Recursos\40PORCENTO.png" texto="">0</etiqueta>
+              <etiqueta imaxe="..\Recursos\50PORCENTO.png" texto="">0</etiqueta>
+              <etiqueta imaxe="..\Recursos\70PORCENTO.png" texto="">1</etiqueta>
+              <etiqueta imaxe="..\Recursos\80PORCENTO.png" texto="">0</etiqueta>
+              <etiqueta imaxe="\" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>1</tipo>
+              <cabeceira>“41 mil toneladas de alimentos são desperdiçadas diariamente no Brasil. Uma quantidade suficiente para alimentar 25 milhões de pessoas.”</cabeceira>
+              <imaxe>..\Recursos\desperdício.jpg</imaxe>
+              <texto>Em três dias, quantas toneladas de alimento são desperdiçadas?
+</texto>
+              <resp texto="" valor="0">89</resp>
+              <resp texto="" valor="1">123</resp>
+              <resp texto="" valor="0">150</resp>
+        </paxina>
+        <paxina id="3" >
+              <tipo>1</tipo>
+              <imaxe>..\Recursos\hortaliça.jpg</imaxe>
+              <texto>Se cada brasileiro compra 37 kg de hortaliças por ano e descarta 28 kg delas.
+Quantos Kg de hortaliça o brasileiro consome por ano?</texto>
+              <resp texto="" valor="1">9</resp>
+              <resp texto="" valor="0">10</resp>
+              <resp texto="" valor="0">11</resp>
+        </paxina>
+    </libro>
+</lim>
