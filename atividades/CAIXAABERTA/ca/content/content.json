@@ -21,7 +21,8 @@
                 "retryText": "Tentar novamente",
                 "closeText": "Fechar"
             },
-            "noneSelectedFeedback": "Tente novamente!"
+            "noneSelectedFeedback": "Tente novamente!",
+            "taskDescription": "MARQUE A CAIXA ABERTA:"
         },
         "backgroundImageSettings": {
             "path": "images\/backgroundImage-5f75fed5f355b.jpg",

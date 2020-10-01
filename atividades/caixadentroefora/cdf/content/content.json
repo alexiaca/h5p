@@ -22,7 +22,7 @@
                 "closeText": "Fechar"
             },
             "noneSelectedFeedback": "TENTE NOVAMENTE!",
-            "taskDescription": ""
+            "taskDescription": "MARQUE A CAIXA QUE EST\u00c1 FORA DA CASA:"
         },
         "backgroundImageSettings": {
             "path": "images\/backgroundImage-5f74f0536b6ef.jpg",

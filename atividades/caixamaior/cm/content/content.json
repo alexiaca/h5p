@@ -21,7 +21,7 @@
                 "retryText": "Tentar novamente",
                 "closeText": "Fechar"
             },
-            "taskDescription": "",
+            "taskDescription": "MARQUE A CAIXA MAIOR:",
             "noneSelectedFeedback": "Tente novamente."
         },
         "backgroundImageSettings": {

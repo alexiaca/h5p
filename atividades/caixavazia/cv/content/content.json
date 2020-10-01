@@ -8,10 +8,10 @@
                         "feedbackText": "PARAB\u00c9NS!"
                     },
                     "computedSettings": {
-                        "x": 7.5662042875157631,
-                        "y": 21.739130434782609,
-                        "width": 37.831021437578819,
-                        "height": 65.217391304347828,
+                        "x": 5.4421768707482991,
+                        "y": 11.774114173228346,
+                        "width": 31.292517006802722,
+                        "height": 82.677165354330711,
                         "figure": "rectangle"
                     }
                 }
@@ -21,16 +21,17 @@
                 "retryText": "Tentar novamente",
                 "closeText": "Fechar"
             },
-            "noneSelectedFeedback": "TENTE NOVAMENTE"
+            "noneSelectedFeedback": "Tente novamente.",
+            "taskDescription": "MARQUE A CAIXA VAZIA:"
         },
         "backgroundImageSettings": {
-            "path": "images\/backgroundImage-5f74dd3e57e16.jpg",
+            "path": "images\/backgroundImage-5f760d62d92f2.jpg",
             "mime": "image\/jpeg",
             "copyright": {
                 "license": "U"
             },
-            "width": 1118,
-            "height": 585
+            "width": 753,
+            "height": 260
         }
     },
     "scoreBarLabel": "Voc\u00ea marcou :num out de :total pontos"
