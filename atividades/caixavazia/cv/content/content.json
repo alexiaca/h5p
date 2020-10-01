@@ -1,0 +1,37 @@
+{
+    "imageHotspotQuestion": {
+        "hotspotSettings": {
+            "hotspot": [
+                {
+                    "userSettings": {
+                        "correct": true,
+                        "feedbackText": "PARAB\u00c9NS!"
+                    },
+                    "computedSettings": {
+                        "x": 7.5662042875157631,
+                        "y": 21.739130434782609,
+                        "width": 37.831021437578819,
+                        "height": 65.217391304347828,
+                        "figure": "rectangle"
+                    }
+                }
+            ],
+            "showFeedbackAsPopup": true,
+            "l10n": {
+                "retryText": "Tentar novamente",
+                "closeText": "Fechar"
+            },
+            "noneSelectedFeedback": "TENTE NOVAMENTE"
+        },
+        "backgroundImageSettings": {
+            "path": "images\/backgroundImage-5f74dd3e57e16.jpg",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 1118,
+            "height": 585
+        }
+    },
+    "scoreBarLabel": "Voc\u00ea marcou :num out de :total pontos"
+}
