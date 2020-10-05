@@ -1,0 +1,112 @@
+{
+    "taskDescription": "ACHE O FILHOTE E O ADULTO DE CADA ANIMAL:",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f7b2f5c5cc73.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 275,
+                "height": 183
+            },
+            "imageAlt": "CACHORRO ADULTO",
+            "match": {
+                "path": "images\/match-5f7b2f6f48842.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 275,
+                "height": 183
+            },
+            "matchAlt": "CACHORRO FILHOTE"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7b2f8a99b00.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 248,
+                "height": 170
+            },
+            "imageAlt": "ELEFANTE ADULTO",
+            "match": {
+                "path": "images\/match-5f7b2f9d06dba.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 251,
+                "height": 201
+            },
+            "matchAlt": "ELEFANTE FILHOTE"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7b2fc555551.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 216,
+                "height": 233
+            },
+            "imageAlt": "GIRAFA ADULTA",
+            "match": {
+                "path": "images\/match-5f7b2fd5c6cab.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 194,
+                "height": 259
+            },
+            "matchAlt": "GIRAFA FILHOTE"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7b309313362.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 274,
+                "height": 184
+            },
+            "imageAlt": "GATO ADULTO",
+            "match": {
+                "path": "images\/match-5f7b30a172600.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 284,
+                "height": 177
+            },
+            "matchAlt": "GATO FILHOTE"
+        }
+    ],
+    "behaviour": {
+        "useGrid": true,
+        "allowRetry": true
+    },
+    "lookNFeel": {
+        "themeColor": "#909090"
+    },
+    "l10n": {
+        "cardTurns": "Cart\u00e3o virou",
+        "timeSpent": "Tempo gasto",
+        "feedback": "Bom trabalho!",
+        "tryAgain": "Tentar novamente?",
+        "closeLabel": "Fechar",
+        "label": "Jogo da mem\u00f3ria. Forme pares de cart\u00f5es.",
+        "done": "Todas os cart\u00f5es foram encontrados.",
+        "cardPrefix": "Cart\u00e3o %num:",
+        "cardUnturned": "N\u00e3o virado.",
+        "cardMatched": "Combina\u00e7\u00e3o encontrada."
+    }
+}
