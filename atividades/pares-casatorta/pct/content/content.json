@@ -1,1 +1,138 @@
-{"taskDescription":"A","cards":[{"image":{"path":"images\/image-5f75230155ab8.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":557,"height":402},"imageAlt":"CASA","match":{"path":"images\/match-5f7523088bf9d.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":354,"height":184}},{"image":{"path":"images\/image-5f75230c88612.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":437,"height":473},"imageAlt":"DENTE","match":{"path":"images\/match-5f752313dc601.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":363,"height":192}},{"image":{"path":"images\/image-5f75231830dd3.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":782,"height":627},"imageAlt":"ELEFANTE","match":{"path":"images\/match-5f75231e62a6c.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":368,"height":178}},{"image":{"path":"images\/image-5f75232351ad8.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":319,"height":335},"imageAlt":"FLORZINHA","match":{"path":"images\/match-5f75232ad4731.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":361,"height":196}},{"image":{"path":"images\/image-5f7523307f66f.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":543,"height":383},"imageAlt":"GATO","match":{"path":"images\/match-5f75233f1cfc7.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":362,"height":190}},{"image":{"path":"images\/image-5f752345099fd.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":307,"height":620},"imageAlt":"PORTA","match":{"path":"images\/match-5f75234b8511c.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":373,"height":184}}],"behaviour":true,"l10n":{"checkAnswer":"CONFERIR","tryAgain":"REFAZER","showSolution":"MOSTRAR RESPOSTA","score":"VOC\u00ca ENCONTROU @score DE @total"}}
+{
+    "taskDescription": "ENCONTRE O NOME DE CADA DESENHO E ARRASTE ATÉ ELE:",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f75230155ab8.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 557,
+                "height": 402
+            },
+            "imageAlt": "CASA",
+            "match": {
+                "path": "images\/match-5f7523088bf9d.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 354,
+                "height": 184
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f75230c88612.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 437,
+                "height": 473
+            },
+            "imageAlt": "DENTE",
+            "match": {
+                "path": "images\/match-5f752313dc601.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 363,
+                "height": 192
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f75231830dd3.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 782,
+                "height": 627
+            },
+            "imageAlt": "ELEFANTE",
+            "match": {
+                "path": "images\/match-5f75231e62a6c.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 368,
+                "height": 178
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f75232351ad8.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 319,
+                "height": 335
+            },
+            "imageAlt": "FLORZINHA",
+            "match": {
+                "path": "images\/match-5f75232ad4731.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 361,
+                "height": 196
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7523307f66f.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 543,
+                "height": 383
+            },
+            "imageAlt": "GATO",
+            "match": {
+                "path": "images\/match-5f75233f1cfc7.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 362,
+                "height": 190
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f752345099fd.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 307,
+                "height": 620
+            },
+            "imageAlt": "PORTA",
+            "match": {
+                "path": "images\/match-5f75234b8511c.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 373,
+                "height": 184
+            }
+        }
+    ],
+    "behaviour": true,
+    "l10n": {
+        "checkAnswer": "CONFERIR",
+        "tryAgain": "REFAZER",
+        "showSolution": "MOSTRAR RESPOSTA",
+        "score": "VOC\u00ca ENCONTROU @score DE @total"
+    }
+}
