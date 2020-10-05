@@ -1,0 +1,158 @@
+{
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f7b33616f0ba.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 623,
+                "height": 563
+            },
+            "imageAlt": "LENA",
+            "match": {
+                "path": "images\/match-5f7b33918461a.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 194,
+                "height": 591
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7b33c876022.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 623,
+                "height": 484
+            },
+            "match": {
+                "path": "images\/match-5f7b33d13d6ca.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 346,
+                "height": 607
+            },
+            "imageAlt": "CINTIA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7b33ec16f09.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 623,
+                "height": 414
+            },
+            "imageAlt": "SIMONE",
+            "match": {
+                "path": "images\/match-5f7b34028e0e6.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 183,
+                "height": 591
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7b3414c2b3a.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 373,
+                "height": 598
+            },
+            "match": {
+                "path": "images\/match-5f7b341b7f964.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 221,
+                "height": 591
+            },
+            "imageAlt": "VALQU\u00cdRIA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7b3442512de.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 604,
+                "height": 623
+            },
+            "imageAlt": "VANESSA",
+            "match": {
+                "path": "images\/match-5f7b344c3518b.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 234,
+                "height": 591
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7b36c5455f9.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 409,
+                "height": 623
+            },
+            "imageAlt": "RAPHAEL",
+            "match": {
+                "path": "images\/match-5f7b36d59764b.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 175,
+                "height": 591
+            }
+        }
+    ],
+    "behaviour": {
+        "useGrid": true,
+        "allowRetry": true
+    },
+    "lookNFeel": {
+        "themeColor": "#909090",
+        "cardBack": {
+            "path": "images\/cardBack-5f7b34fe87d34.jpeg",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 626,
+            "height": 626
+        }
+    },
+    "l10n": {
+        "cardTurns": "Cart\u00e3o virou",
+        "timeSpent": "Tempo gasto",
+        "feedback": "PARAB\u00c9NS!!",
+        "tryAgain": "REPETIR O JOGO?",
+        "closeLabel": "Fechar",
+        "label": "Jogo da mem\u00f3ria. Forme pares de cart\u00f5es.",
+        "done": "Todas os cart\u00f5es foram encontrados.",
+        "cardPrefix": "Cart\u00e3o %num:",
+        "cardUnturned": "N\u00e3o virado.",
+        "cardMatched": "Combina\u00e7\u00e3o encontrada."
+    }
+}
