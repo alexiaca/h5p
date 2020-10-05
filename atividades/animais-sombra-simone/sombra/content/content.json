@@ -1,0 +1,100 @@
+{
+    "taskDescription": "ARRASTE OS ANIMAIS AT\u00c9 AS SUAS SOMBRAS",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f773a7b174c3.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 187,
+                "height": 170
+            },
+            "match": {
+                "path": "images\/match-5f773a8f00437.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 183,
+                "height": 168
+            },
+            "imageAlt": "C\u00c3O",
+            "matchAlt": "SOMBRA DO C\u00c3O"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f773a9ed437b.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 231,
+                "height": 140
+            },
+            "match": {
+                "path": "images\/match-5f773aad3d310.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 233,
+                "height": 125
+            },
+            "imageAlt": "GATO",
+            "matchAlt": "SOMBRA DO GATO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f773abeefb46.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 168,
+                "height": 166
+            },
+            "match": {
+                "path": "images\/match-5f773aca7737d.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 182,
+                "height": 178
+            },
+            "imageAlt": "OVELHA",
+            "matchAlt": "SOMBRA DA OVELHA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f773ad9a7c07.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 210,
+                "height": 162
+            },
+            "imageAlt": "VACA",
+            "match": {
+                "path": "images\/match-5f773aebdf3e6.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 217,
+                "height": 159
+            },
+            "matchAlt": "SOMBRA DA VACA"
+        }
+    ],
+    "behaviour": true,
+    "l10n": {
+        "checkAnswer": "Check",
+        "tryAgain": "Retry",
+        "showSolution": "Show Solution",
+        "score": "You got @score of @total points"
+    }
+}
