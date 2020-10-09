@@ -1,0 +1,173 @@
+{
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f7e1fe004763.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 225,
+                "height": 225
+            },
+            "match": {
+                "path": "images\/match-5f7e1fef4b6cb.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 225,
+                "height": 225
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e20908b2ba.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 600,
+                "height": 470
+            },
+            "match": {
+                "path": "images\/match-5f7e20a103bb4.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 600,
+                "height": 470
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e20ae535a8.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 626,
+                "height": 626
+            },
+            "match": {
+                "path": "images\/match-5f7e20b92db46.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 626,
+                "height": 626
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e20c386339.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 626,
+                "height": 626
+            },
+            "match": {
+                "path": "images\/match-5f7e20d1a18e3.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 626,
+                "height": 626
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e20e44dc7a.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 225,
+                "height": 225
+            },
+            "match": {
+                "path": "images\/match-5f7e20ee50293.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 225,
+                "height": 225
+            }
+        },
+        {},
+        {
+            "image": {
+                "path": "images\/image-5f7e211e3dcaa.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 680,
+                "height": 961
+            },
+            "match": {
+                "path": "images\/match-5f7e21341d7fd.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 680,
+                "height": 961
+            }
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e2161a5780.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 244,
+                "height": 194
+            },
+            "match": {
+                "path": "images\/match-5f7e216b12419.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 244,
+                "height": 194
+            }
+        }
+    ],
+    "behaviour": {
+        "useGrid": true,
+        "allowRetry": true
+    },
+    "lookNFeel": {
+        "themeColor": "#171212",
+        "cardBack": {
+            "path": "images\/cardBack-5f7e21884d9f3.jpg",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 626,
+            "height": 469
+        }
+    },
+    "l10n": {
+        "cardTurns": "Cart\u00e3o virou",
+        "timeSpent": "Tempo gasto",
+        "feedback": "Bom trabalho!",
+        "tryAgain": "Tentar novamente?",
+        "closeLabel": "Fechar",
+        "label": "Jogo da mem\u00f3ria. Forme pares de cart\u00f5es.",
+        "done": "Todas os cart\u00f5es foram encontrados.",
+        "cardPrefix": "Cart\u00e3o %num:",
+        "cardUnturned": "N\u00e3o virado.",
+        "cardMatched": "Combina\u00e7\u00e3o encontrada."
+    }
+}

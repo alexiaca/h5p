@@ -1,0 +1,138 @@
+{
+    "taskDescription": "Drag images from the left to match them with corresponding images on the right",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f7e1a85b6435.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 550,
+                "height": 365
+            },
+            "match": {
+                "path": "images\/match-5f7e1a912443e.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 225,
+                "height": 225
+            },
+            "matchAlt": "ELEFANTE"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e1b2a22340.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 275,
+                "height": 183
+            },
+            "match": {
+                "path": "images\/match-5f7e1b34147f6.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 225,
+                "height": 225
+            },
+            "matchAlt": "GALINHA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e1b41924e1.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 275,
+                "height": 183
+            },
+            "match": {
+                "path": "images\/match-5f7e1b47db5ec.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 259,
+                "height": 194
+            },
+            "matchAlt": "GATO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e1b589a312.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 216,
+                "height": 234
+            },
+            "match": {
+                "path": "images\/match-5f7e1b60a19f1.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 225,
+                "height": 225
+            },
+            "matchAlt": "GIRAFA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e1b796fbcc.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 350,
+                "height": 500
+            },
+            "match": {
+                "path": "images\/match-5f7e1b81cfee2.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 500,
+                "height": 500
+            },
+            "matchAlt": "SER HUMANO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f7e1b8ea844f.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 266,
+                "height": 190
+            },
+            "match": {
+                "path": "images\/match-5f7e1b987e606.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 275,
+                "height": 183
+            },
+            "matchAlt": "PEIXE"
+        }
+    ],
+    "behaviour": true,
+    "l10n": {
+        "checkAnswer": "Check",
+        "tryAgain": "Retry",
+        "showSolution": "Show Solution",
+        "score": "You got @score of @total points"
+    }
+}
