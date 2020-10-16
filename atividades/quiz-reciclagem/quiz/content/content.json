@@ -1,1 +1,1827 @@
-{"introPage":{"showIntroPage":false,"startButtonText":"Start Quiz","introduction":""},"progressType":"dots","passPercentage":50,"questions":[{"params":{"media":{"disableImageZooming":false},"answers":[{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\n\u201cJogar fora\u201d o lixo produzido.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nColetar todo tipo de material existente em lixos recicla\u0301veis.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nNome dado para todo o processo do lixo apo\u0301s seu descarte.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nProcesso de transformac\u0327a\u0303o de materiais usados em novos produtos para consumo.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"type":"auto","singlePoint":false,"randomAnswers":true,"showSolutionsRequiresInput":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":true},"UI":{"checkAnswerButton":"Verificar resposta","showSolutionButton":"Mostrar solu\u00e7\u00e3o","tryAgainButton":"Tentar novamente","tipsLabel":"Mostrar dica","scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","tipAvailable":"Dica dispon\u00edvel","feedbackAvailable":"Feedback dispon\u00edvel","readFeedback":"Ler feedback","wrongAnswer":"Resposta incorreta","correctAnswer":"Resposta correta","shouldCheck":"Deveria ter sido marcado","shouldNotCheck":"Deveria ter sido marcado","noInput":"Por favor responda antes de visualizar a solu\u00e7\u00e3o"},"confirmCheck":{"header":"Finalizar ?","body":"Tem certeza de que deseja finalizar ?","cancelLabel":"Cancelar","confirmLabel":"Finalizar"},"confirmRetry":{"header":"Tentar novamente ?","body":"Tem certeza de que deseja tentar novamente ?","cancelLabel":"Cancelar","confirmLabel":"Confirmar"},"question":"<p>O que e\u0301 Reciclagem?<\/p>\n"},"library":"H5P.MultiChoice 1.14","metadata":{"contentType":"Multiple Choice","license":"U","title":"Reciclagem"},"subContentId":"9a9b4bc4-2fc8-48e9-b6f8-5f828aa6b92e"},{"params":{"media":{"disableImageZooming":false},"answers":[{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nProcesso de separac\u0327a\u0303o e recolhimento dos resi\u0301duos para o reaproveitamento por meio de reciclagem\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nDestinac\u0327a\u0303o de resi\u0301duos para lixo\u0303es e aterros.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nProcesso de envio de todo lixo produzido para cooperativas ou entrega para catadores de rua.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nA escolha aleato\u0301ria do melhor lixo produzido.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"type":"auto","singlePoint":false,"randomAnswers":true,"showSolutionsRequiresInput":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":true},"UI":{"checkAnswerButton":"Verificar resposta","showSolutionButton":"Mostrar solu\u00e7\u00e3o","tryAgainButton":"Tentar novamente","tipsLabel":"Mostrar dica","scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","tipAvailable":"Dica dispon\u00edvel","feedbackAvailable":"Feedback dispon\u00edvel","readFeedback":"Ler feedback","wrongAnswer":"Resposta incorreta","correctAnswer":"Resposta correta","shouldCheck":"Deveria ter sido marcado","shouldNotCheck":"Deveria ter sido marcado","noInput":"Por favor responda antes de visualizar a solu\u00e7\u00e3o"},"confirmCheck":{"header":"Finalizar ?","body":"Tem certeza de que deseja finalizar ?","cancelLabel":"Cancelar","confirmLabel":"Finalizar"},"confirmRetry":{"header":"Tentar novamente ?","body":"Tem certeza de que deseja tentar novamente ?","cancelLabel":"Cancelar","confirmLabel":"Confirmar"},"question":"<p>O que e\u0301 coleta seletiva?<\/p>\n"},"library":"H5P.MultiChoice 1.14","metadata":{"contentType":"Multiple Choice","license":"U","title":"Coleta seletiva"},"subContentId":"3ca114bd-a969-4c8f-aa4d-3d67e30b813e"},{"params":{"scoreShow":"Verificar resposta","tryAgain":"Tentar novamente","scoreExplanation":"Respostas corretas d\u00e3o +1 ponto. Respostas incorretas d\u00e3o -1 ponto. A menor pontua\u00e7\u00e3o poss\u00edvel \u00e9 0.","question":{"settings":{"size":{"width":620,"height":500}},"task":{"elements":[{"x":60.919540229885065,"y":2.8506515164040738,"width":7.1264367816091951,"height":12.382150502873563,"dropZones":[],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f33ebc80b.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":150,"height":260},"alt":"l-amarela"},"subContentId":"939423b4-f54f-4847-9e50-ab64ec82a884","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":100,"multiple":false},{"x":22.52873563218391,"y":2.8506515164040738,"width":7.1264367816091951,"height":12.382150502873563,"dropZones":[],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f36033577.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":150,"height":260},"alt":"l-azul"},"subContentId":"ad4d3558-d0e2-4e6c-8c53-856bced8223b","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":100,"multiple":false},{"x":80.229885057471265,"y":2.8506515164040738,"width":7.1264367816091951,"height":12.382150502873563,"dropZones":[],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f3825a5ef.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":150,"height":260},"alt":"l-marrom"},"subContentId":"3559bcee-ebcf-4870-aee7-31d696ed1ea6","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":100,"multiple":false},{"x":2.298850574712644,"y":2.8506515164040738,"width":7.1264367816091951,"height":12.352219542789852,"dropZones":[],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f3ab7499e.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":150,"height":260},"alt":"l-verde"},"subContentId":"6f792d96-500a-4b9a-b605-fb99bf7031b3","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":100,"multiple":false},{"x":41.839080459770116,"y":2.8506515164040738,"width":7.1264367816091951,"height":12.382150502873563,"dropZones":[],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f3ba5a9a3.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":150,"height":260},"alt":"l-vermelha"},"subContentId":"8b506c91-3863-40c6-b63e-9dbefadc96de","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":100,"multiple":false},{"x":45.977011494252878,"y":74.116939426505922,"width":4.472627057028367,"height":7.5718368534482758,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f4512c92c.png","mime":"image\/png","copyright":{"license":"U"},"width":153,"height":259},"alt":"lata-leite"},"subContentId":"fd690df9-4be3-42f9-8bb8-233775c8f9c9","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":75.862068965517253,"y":62.714333360889626,"width":3.5938577270754259,"height":6.8355334051724137,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f465ed340.png","mime":"image\/png","copyright":{"license":"U"},"width":367,"height":698},"alt":"lata-refrigerante"},"subContentId":"d245be62-b926-4e17-8015-5e357dd2ef84","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":62.068965517241388,"y":62.714333360889626,"width":4.0260081732794042,"height":7.372777658045977,"dropZones":["1"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f49a1d552.jpeg","mime":"image\/jpeg","copyright":{"license":"U"},"width":166,"height":304},"alt":"caixa-leite-condensado"},"subContentId":"f8954ccc-6220-4bd4-8455-f63f0cd1662a","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":82.758620689655174,"y":76.967590942909993,"width":6.6815566425462531,"height":6.235632183908046,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f4b6a9b71.png","mime":"image\/png","copyright":{"license":"U"},"width":900,"height":839},"alt":"revista"},"subContentId":"750e3852-6ce7-484f-8034-71a24477d727","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":35.322025193513767,"y":59.859227701491172,"width":7.385811501881232,"height":4.4540229885057467,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f4d0d0aec.png","mime":"image\/png","copyright":{"license":"U"},"width":1280,"height":763},"alt":"casca-banana"},"subContentId":"8992925b-71ac-4dc4-bed4-4f7588138e1a","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":4.597701149425288,"y":79.818242459314064,"width":7.3767962677865269,"height":5.5243759339080452,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f4e764906.png","mime":"image\/png","copyright":{"license":"U"},"width":259,"height":194},"alt":"casca-laranja"},"subContentId":"e74618dc-b92c-4384-8d13-25109368d62f","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":86.896551724137936,"y":51.311727295273329,"width":5,"height":6.4629451395572666,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f51610200.png","mime":"image\/png","copyright":{"license":"U"},"width":1039,"height":1343},"alt":"vidro-requeijao"},"subContentId":"f7cc1c6b-ed60-428a-a881-0c0028442ed5","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":32.183908045977013,"y":66.990310635495732,"width":5,"height":10.344827586206897,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f52861cca.png","mime":"image\/png","copyright":{"license":"U"},"width":348,"height":720},"alt":"vidro-refrigerante"},"subContentId":"547b823b-f128-41ab-8aa2-7a67b6295599","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":50.574712643678168,"y":42.75977274606111,"width":3.7231519414990908,"height":7.9351203304597693,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f53e06b12.png","mime":"image\/png","copyright":{"license":"U"},"width":130,"height":282},"alt":"vidro-garrafa"},"subContentId":"c0896f74-e618-4a74-a6ae-5c9312ce2a5d","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":16.091954022988507,"y":42.75977274606111,"width":3.7334206864237598,"height":7.8836540948275866,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f57fe0286.png","mime":"image\/png","copyright":{"license":"U"},"width":1004,"height":2120},"alt":"plastico-achocolatado"},"subContentId":"8e844c5a-0a20-4226-8492-89c49f59c9f6","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":66.666666666666671,"y":76.967590942909993,"width":6.346734761795048,"height":6.235632183908046,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f598f27aa.png","mime":"image\/png","copyright":{"license":"U"},"width":300,"height":300},"alt":"plastico-pet"},"subContentId":"bf24ec6e-8ee0-421b-92e4-bd78f7015c81","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":62.068965517241388,"y":39.909121229657032,"width":7.1264367816091951,"height":10.705526969254793,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86f5b3b8d64.png","mime":"image\/png","copyright":{"license":"U"},"width":852,"height":1280},"alt":"plastico-shampoo"},"subContentId":"628d5d59-414b-41ef-acb5-87fb37c52f0d","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":22.988505747126439,"y":57.013030328081477,"width":5,"height":10.005464480874318,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","alt":"caixa-leite","file":{"path":"images\/file-5f86fa8ac8553.png","mime":"image\/png","copyright":{"license":"U"},"width":915,"height":1831}},"subContentId":"a5b31bea-ee4e-4fec-a3e9-d5290b045c09","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":57.471264367816097,"y":84.094219733920184,"width":5,"height":4.112903225806452,"dropZones":["4","0","1","2","3"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86fabb49e48.png","mime":"image\/png","copyright":{"license":"U"},"width":124,"height":102},"alt":"lim\u00e3o"},"subContentId":"57baad7e-3787-4645-a880-08c4f9053bc0","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false},{"x":4.597701149425288,"y":59.863681844485555,"width":5,"height":5.7692307692307683,"dropZones":["0","1","2","3","4"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Imagem","file":{"path":"images\/file-5f86fafaeb92a.png","mime":"image\/png","copyright":{"license":"U"},"width":390,"height":450},"alt":"lata-farinha"},"subContentId":"5063a8fb-e86b-4d46-a083-c8a42b91e46b","metadata":{"contentType":"Image","license":"U","title":"Sem t\u00edtulo"}},"backgroundOpacity":0,"multiple":false}],"dropZones":[{"x":2.298850574712644,"y":2.8417432304153114,"width":7.1264367816091951,"height":12.471264367816092,"correctElements":["11","12","13"],"showLabel":false,"backgroundOpacity":0,"tipsAndFeedback":{"tip":""},"single":false,"autoAlign":true,"label":"<div>l-verde<\/div>\n"},{"x":22.988505747126439,"y":2.8506515164040738,"width":7.1264367816091951,"height":12.471264367816092,"correctElements":["8","7","17"],"showLabel":false,"backgroundOpacity":0,"tipsAndFeedback":{"tip":""},"single":false,"autoAlign":true,"label":"<div>l-azul<\/div>\n"},{"x":41.379310344827587,"y":2.8506515164040738,"width":7.1264367816091951,"height":12.471264367816092,"correctElements":["14","15","16"],"showLabel":false,"backgroundOpacity":0,"tipsAndFeedback":{"tip":""},"single":false,"autoAlign":true,"label":"<div>l-vermelha<\/div>\n"},{"x":60.919540229885065,"y":2.8506515164040738,"width":7.1264367816091951,"height":12.471264367816092,"correctElements":["5","6","19"],"showLabel":false,"backgroundOpacity":0,"tipsAndFeedback":{"tip":""},"single":false,"autoAlign":true,"label":"<div>l-amarela<\/div>\n"},{"x":80.459770114942529,"y":2.8506515164040738,"width":7.1264367816091951,"height":12.471264367816092,"correctElements":["9","10","18"],"showLabel":false,"backgroundOpacity":0,"tipsAndFeedback":{"tip":""},"single":false,"autoAlign":true,"label":"<div>l-marrom<\/div>\n"}]}},"overallFeedback":[{"from":0,"to":6},{"from":7,"to":13},{"from":14,"to":20},{"from":21,"to":26},{"from":27,"to":33},{"from":34,"to":40},{"from":41,"to":46},{"from":47,"to":53},{"from":54,"to":60},{"from":61,"to":66},{"from":67,"to":73},{"from":74,"to":80},{"from":81,"to":86},{"from":87,"to":93},{"from":94,"to":100}],"behaviour":{"enableRetry":true,"enableCheckButton":true,"showSolutionsRequiresInput":true,"singlePoint":false,"applyPenalties":true,"enableScoreExplanation":true,"dropZoneHighlighting":"dragging","autoAlignSpacing":2,"enableFullScreen":false,"showScorePoints":true,"showTitle":true},"grabbablePrefix":"Arrast\u00e1vel {num} de {total}.","grabbableSuffix":"Posicionado na zona de largada {num}.","dropzonePrefix":"Zona de largada {num} de {total}.","noDropzone":"Nenhuma zona de largada selecionada.","tipLabel":"Mostrar dica.","tipAvailable":"Dica dispon\u00edvel","correctAnswer":"Resposta correta","wrongAnswer":"Resposta incorreta","feedbackHeader":"Feedback","scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","scoreExplanationButtonLabel":"Mostrar explica\u00e7\u00e3o da pontua\u00e7\u00e3o","localize":{"fullscreen":"Tela cheia","exitFullscreen":"Sair da tela cheia"}},"library":"H5P.DragQuestion 1.13","metadata":{"contentType":"Drag and Drop","license":"U","title":"Lixeiras"},"subContentId":"271d68ef-8ac3-4972-b506-76faa9c7e8bc"},{"params":{"media":{"disableImageZooming":false},"answers":[{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nBrasil\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Gana<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>China<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Paquist\u00e3o<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"type":"auto","singlePoint":false,"randomAnswers":true,"showSolutionsRequiresInput":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":true},"UI":{"checkAnswerButton":"Verificar resposta","showSolutionButton":"Mostrar solu\u00e7\u00e3o","tryAgainButton":"Tentar novamente","tipsLabel":"Mostrar dica","scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","tipAvailable":"Dica dispon\u00edvel","feedbackAvailable":"Feedback dispon\u00edvel","readFeedback":"Ler feedback","wrongAnswer":"Resposta incorreta","correctAnswer":"Resposta correta","shouldCheck":"Deveria ter sido marcado","shouldNotCheck":"Deveria ter sido marcado","noInput":"Por favor responda antes de visualizar a solu\u00e7\u00e3o"},"confirmCheck":{"header":"Finalizar ?","body":"Tem certeza de que deseja finalizar ?","cancelLabel":"Cancelar","confirmLabel":"Finalizar"},"confirmRetry":{"header":"Tentar novamente ?","body":"Tem certeza de que deseja tentar novamente ?","cancelLabel":"Cancelar","confirmLabel":"Confirmar"},"question":"<p>Em qual pai\u0301s fica localizado lixa\u0303o mais to\u0301xico do mundo?<\/p>\n"},"library":"H5P.MultiChoice 1.14","metadata":{"contentType":"Multiple Choice","license":"U","title":"Lix\u00e3o"},"subContentId":"1827027b-2980-4228-b257-fb45763aa7fe"},{"params":{"media":{"disableImageZooming":false},"answers":[{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Garrafa PET<\/div>\n"},{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Prego<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Cano<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Papel celofane<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"type":"auto","singlePoint":false,"randomAnswers":true,"showSolutionsRequiresInput":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":true},"UI":{"checkAnswerButton":"Verificar resposta","showSolutionButton":"Mostrar solu\u00e7\u00e3o","tryAgainButton":"Tentar novamente","tipsLabel":"Mostrar dica","scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","tipAvailable":"Dica dispon\u00edvel","feedbackAvailable":"Feedback dispon\u00edvel","readFeedback":"Ler feedback","wrongAnswer":"Resposta incorreta","correctAnswer":"Resposta correta","shouldCheck":"Deveria ter sido marcado","shouldNotCheck":"Deveria ter sido marcado","noInput":"Por favor responda antes de visualizar a solu\u00e7\u00e3o"},"confirmCheck":{"header":"Finalizar ?","body":"Tem certeza de que deseja finalizar ?","cancelLabel":"Cancelar","confirmLabel":"Finalizar"},"confirmRetry":{"header":"Tentar novamente ?","body":"Tem certeza de que deseja tentar novamente ?","cancelLabel":"Cancelar","confirmLabel":"Confirmar"},"question":"<p>Qual dos itens abaixo na\u0303o pode ser reciclado?<\/p>\n"},"library":"H5P.MultiChoice 1.14","metadata":{"contentType":"Multiple Choice","license":"U","title":"Reciclado"},"subContentId":"c7050bc4-b637-497e-b77b-add5ee0cc623"},{"params":{"media":{"disableImageZooming":false},"answers":[{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Papel<\/div>\n"},{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Pl\u00e1stico<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Chiclete<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>F\u00f3sforo<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"type":"auto","singlePoint":false,"randomAnswers":true,"showSolutionsRequiresInput":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":true},"UI":{"checkAnswerButton":"Verificar resposta","showSolutionButton":"Mostrar solu\u00e7\u00e3o","tryAgainButton":"Tentar novamente","tipsLabel":"Mostrar dica","scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","tipAvailable":"Dica dispon\u00edvel","feedbackAvailable":"Feedback dispon\u00edvel","readFeedback":"Ler feedback","wrongAnswer":"Resposta incorreta","correctAnswer":"Resposta correta","shouldCheck":"Deveria ter sido marcado","shouldNotCheck":"Deveria ter sido marcado","noInput":"Por favor responda antes de visualizar a solu\u00e7\u00e3o"},"confirmCheck":{"header":"Finalizar ?","body":"Tem certeza de que deseja finalizar ?","cancelLabel":"Cancelar","confirmLabel":"Finalizar"},"confirmRetry":{"header":"Tentar novamente ?","body":"Tem certeza de que deseja tentar novamente ?","cancelLabel":"Cancelar","confirmLabel":"Confirmar"},"question":"<p>Observe os itens abaixo. Qual deles demora mais tempo para se decompor no meio ambiente?<\/p>\n"},"library":"H5P.MultiChoice 1.14","metadata":{"contentType":"Multiple Choice","license":"U","title":"Decomposi\u00e7\u00e3o"},"subContentId":"273f3360-359e-49c3-9dc4-d7a2d0ac5a64"},{"params":{"media":{"disableImageZooming":false},"answers":[{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nRefazer, recuar e reiterar\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nRastrear, reabastecer e reter\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nReduzir, reutilizar e reciclar\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nRadicar, reiterar e reduzir\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"type":"auto","singlePoint":false,"randomAnswers":true,"showSolutionsRequiresInput":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":true},"UI":{"checkAnswerButton":"Verificar resposta","showSolutionButton":"Mostrar solu\u00e7\u00e3o","tryAgainButton":"Tentar novamente","tipsLabel":"Mostrar dica","scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","tipAvailable":"Dica dispon\u00edvel","feedbackAvailable":"Feedback dispon\u00edvel","readFeedback":"Ler feedback","wrongAnswer":"Resposta incorreta","correctAnswer":"Resposta correta","shouldCheck":"Deveria ter sido marcado","shouldNotCheck":"Deveria ter sido marcado","noInput":"Por favor responda antes de visualizar a solu\u00e7\u00e3o"},"confirmCheck":{"header":"Finalizar ?","body":"Tem certeza de que deseja finalizar ?","cancelLabel":"Cancelar","confirmLabel":"Finalizar"},"confirmRetry":{"header":"Tentar novamente ?","body":"Tem certeza de que deseja tentar novamente ?","cancelLabel":"Cancelar","confirmLabel":"Confirmar"},"question":"<p>Quais sa\u0303o os 3 R\u2019s da Sustentabilidade:<\/p>\n"},"library":"H5P.MultiChoice 1.14","metadata":{"contentType":"Multiple Choice","license":"U","title":"3 R&#039;s"},"subContentId":"685b1c4e-cba5-4c11-8d1e-4dd1aca3d5e6"},{"params":{"media":{"disableImageZooming":false},"answers":[{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nOptando pela compra de produtos com embalagens recicla\u0301veis.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nReutilizando os materiais e objetos sempre que possi\u0301vel.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nApoiando iniciativas de reciclagem.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>\n<div>\n<div>\n<div>\nTodas as anteriores.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"type":"auto","singlePoint":false,"randomAnswers":false,"showSolutionsRequiresInput":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":true},"UI":{"checkAnswerButton":"Verificar resposta","showSolutionButton":"Mostrar solu\u00e7\u00e3o","tryAgainButton":"Tentar novamente","tipsLabel":"Mostrar dica","scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","tipAvailable":"Dica dispon\u00edvel","feedbackAvailable":"Feedback dispon\u00edvel","readFeedback":"Ler feedback","wrongAnswer":"Resposta incorreta","correctAnswer":"Resposta correta","shouldCheck":"Deveria ter sido marcado","shouldNotCheck":"Deveria ter sido marcado","noInput":"Por favor responda antes de visualizar a solu\u00e7\u00e3o"},"confirmCheck":{"header":"Finalizar ?","body":"Tem certeza de que deseja finalizar ?","cancelLabel":"Cancelar","confirmLabel":"Finalizar"},"confirmRetry":{"header":"Tentar novamente ?","body":"Tem certeza de que deseja tentar novamente ?","cancelLabel":"Cancelar","confirmLabel":"Confirmar"},"question":"<p>Uma das formas de colaborar com a preservac\u0327a\u0303o do meio ambiente e\u0301 reduzir a produc\u0327a\u0303o de resi\u0301duos. Mas como?<\/p>\n"},"library":"H5P.MultiChoice 1.14","metadata":{"contentType":"Multiple Choice","license":"U","title":"Res\u00edduos"},"subContentId":"a166532c-8444-4965-a79e-0c511e43c14b"},{"params":{"media":{"disableImageZooming":false},"answers":[{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Pl\u00e1stico<\/div>\n"},{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Papel e papel\u00e3o<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Vidro<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Metais<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"type":"auto","singlePoint":false,"randomAnswers":true,"showSolutionsRequiresInput":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":true},"UI":{"checkAnswerButton":"Verificar resposta","showSolutionButton":"Mostrar solu\u00e7\u00e3o","tryAgainButton":"Tentar novamente","tipsLabel":"Mostrar dica","scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","tipAvailable":"Dica dispon\u00edvel","feedbackAvailable":"Feedback dispon\u00edvel","readFeedback":"Ler feedback","wrongAnswer":"Resposta incorreta","correctAnswer":"Resposta correta","shouldCheck":"Deveria ter sido marcado","shouldNotCheck":"Deveria ter sido marcado","noInput":"Por favor responda antes de visualizar a solu\u00e7\u00e3o"},"confirmCheck":{"header":"Finalizar ?","body":"Tem certeza de que deseja finalizar ?","cancelLabel":"Cancelar","confirmLabel":"Finalizar"},"confirmRetry":{"header":"Tentar novamente ?","body":"Tem certeza de que deseja tentar novamente ?","cancelLabel":"Cancelar","confirmLabel":"Confirmar"},"question":"<p>Qual o resi\u0301duo mais produzido no Brasil?<\/p>\n"},"library":"H5P.MultiChoice 1.14","metadata":{"contentType":"Multiple Choice","license":"U","title":"Res\u00edduo"},"subContentId":"1dacc398-4402-4c75-bc50-2034bb58de8f"},{"params":{"media":{"disableImageZooming":false},"text":"<p>Digite o nome da empresa que cuida da Limpeza urbana da cidade do Rio de Janeiro?<\/p>\n","overallFeedback":[{"from":0,"to":100}],"showSolutions":"Mostrar solu\u00e7\u00e3o","tryAgain":"Tentar novamente","checkAnswer":"Verificar resposta","notFilledOut":"Por favor, preencha todos os espa\u00e7os em branco para visualizar a solu\u00e7\u00e3o","answerIsCorrect":"&#039;:ans&#039; est\u00e1 correto","answerIsWrong":"&#039;:ans&#039; est\u00e1 incorreto","answeredCorrectly":"Respondido corretamente","answeredIncorrectly":"Respondido incorretamente","solutionLabel":"Resposta correta:","inputLabel":"Espa\u00e7o em branco @num de @total","inputHasTipLabel":"Dica dispon\u00edvel","tipLabel":"Dica","behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"autoCheck":false,"caseSensitive":false,"showSolutionsRequiresInput":true,"separateLines":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"acceptSpellingErrors":false},"scoreBarLabel":"Voc\u00ea marcou :num de :total pontos","confirmCheck":{"header":"Finalizar ?","body":"Tem certeza de que deseja finalizar ?","cancelLabel":"Cancelar","confirmLabel":"Finalizar"},"confirmRetry":{"header":"Tentar novamente ?","body":"Voc\u00ea tem certeza de que deseja tentar novamente ?","cancelLabel":"Cancelar","confirmLabel":"Confirmar"},"questions":["<p>*COMLURB*<\/p>\n"]},"library":"H5P.Blanks 1.12","metadata":{"contentType":"Fill in the Blanks","license":"U","title":"Empresa de limpeza"},"subContentId":"cb6e0360-5531-4156-8ba9-079f6fcac022"}],"disableBackwardsNavigation":false,"randomQuestions":true,"endGame":{"showResultPage":true,"showSolutionButton":true,"showRetryButton":true,"noResultMessage":"Finalizado","message":"Seu resultado:","overallFeedback":[{"from":0,"to":100}],"solutionButtonText":"Mostrar solu\u00e7\u00e3o","retryButtonText":"Tentar novamente","finishButtonText":"Terminar","showAnimations":false,"skippable":false,"skipButtonText":"Skip video"},"override":{"checkButton":true},"texts":{"prevButton":"Quest\u00e3o anterior","nextButton":"Pr\u00f3xima quest\u00e3o","finishButton":"Finalizar","textualProgress":"Question: @current of @total questions","jumpToQuestion":"Question %d of %total","questionLabel":"Quest\u00e3o","readSpeakerProgress":"Question @current of @total","unansweredText":"Unanswered","answeredText":"Answered","currentQuestionText":"Quest\u00e3o atual"}}
+{
+    "introPage": {
+        "showIntroPage": false,
+        "startButtonText": "Start Quiz",
+        "introduction": ""
+    },
+    "progressType": "dots",
+    "passPercentage": 50,
+    "questions": [
+        {
+            "params": {
+                "media": {
+                    "disableImageZooming": false
+                },
+                "answers": [
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\n\u201cJogar fora\u201d o lixo produzido.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nColetar todo tipo de material existente em lixos recicla\u0301veis.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nNome dado para todo o processo do lixo apo\u0301s seu descarte.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nProcesso de transformac\u0327a\u0303o de materiais usados em novos produtos para consumo.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": true,
+                    "enableCheckButton": true,
+                    "type": "auto",
+                    "singlePoint": false,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": true
+                },
+                "UI": {
+                    "checkAnswerButton": "Verificar resposta",
+                    "showSolutionButton": "Mostrar solu\u00e7\u00e3o",
+                    "tryAgainButton": "Tentar novamente",
+                    "tipsLabel": "Mostrar dica",
+                    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                    "tipAvailable": "Dica dispon\u00edvel",
+                    "feedbackAvailable": "Feedback dispon\u00edvel",
+                    "readFeedback": "Ler feedback",
+                    "wrongAnswer": "Resposta incorreta",
+                    "correctAnswer": "Resposta correta",
+                    "shouldCheck": "Deveria ter sido marcado",
+                    "shouldNotCheck": "Deveria ter sido marcado",
+                    "noInput": "Por favor responda antes de visualizar a solu\u00e7\u00e3o"
+                },
+                "confirmCheck": {
+                    "header": "Finalizar ?",
+                    "body": "Tem certeza de que deseja finalizar ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Finalizar"
+                },
+                "confirmRetry": {
+                    "header": "Tentar novamente ?",
+                    "body": "Tem certeza de que deseja tentar novamente ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Confirmar"
+                },
+                "question": "<p>O que e\u0301 Reciclagem?<\/p>\n"
+            },
+            "library": "H5P.MultiChoice 1.14",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Reciclagem"
+            },
+            "subContentId": "9a9b4bc4-2fc8-48e9-b6f8-5f828aa6b92e"
+        },
+        {
+            "params": {
+                "media": {
+                    "disableImageZooming": false
+                },
+                "answers": [
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nProcesso de separac\u0327a\u0303o e recolhimento dos resi\u0301duos para o reaproveitamento por meio de reciclagem\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nDestinac\u0327a\u0303o de resi\u0301duos para lixo\u0303es e aterros.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nProcesso de envio de todo lixo produzido para cooperativas ou entrega para catadores de rua.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nA escolha aleato\u0301ria do melhor lixo produzido.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": true,
+                    "enableCheckButton": true,
+                    "type": "auto",
+                    "singlePoint": false,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": true
+                },
+                "UI": {
+                    "checkAnswerButton": "Verificar resposta",
+                    "showSolutionButton": "Mostrar solu\u00e7\u00e3o",
+                    "tryAgainButton": "Tentar novamente",
+                    "tipsLabel": "Mostrar dica",
+                    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                    "tipAvailable": "Dica dispon\u00edvel",
+                    "feedbackAvailable": "Feedback dispon\u00edvel",
+                    "readFeedback": "Ler feedback",
+                    "wrongAnswer": "Resposta incorreta",
+                    "correctAnswer": "Resposta correta",
+                    "shouldCheck": "Deveria ter sido marcado",
+                    "shouldNotCheck": "Deveria ter sido marcado",
+                    "noInput": "Por favor responda antes de visualizar a solu\u00e7\u00e3o"
+                },
+                "confirmCheck": {
+                    "header": "Finalizar ?",
+                    "body": "Tem certeza de que deseja finalizar ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Finalizar"
+                },
+                "confirmRetry": {
+                    "header": "Tentar novamente ?",
+                    "body": "Tem certeza de que deseja tentar novamente ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Confirmar"
+                },
+                "question": "<p>O que e\u0301 coleta seletiva?<\/p>\n"
+            },
+            "library": "H5P.MultiChoice 1.14",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Coleta seletiva"
+            },
+            "subContentId": "3ca114bd-a969-4c8f-aa4d-3d67e30b813e"
+        },
+        {
+            "params": {
+                "scoreShow": "Verificar resposta",
+                "tryAgain": "Tentar novamente",
+                "scoreExplanation": "Respostas corretas d\u00e3o +1 ponto. Respostas incorretas d\u00e3o -1 ponto. A menor pontua\u00e7\u00e3o poss\u00edvel \u00e9 0.",
+                "question": {
+                    "settings": {
+                        "size": {
+                            "width": 620,
+                            "height": 500
+                        }
+                    },
+                    "task": {
+                        "elements": [
+                            {
+                                "x": 60.919540229885065,
+                                "y": 2.8506515164040738,
+                                "width": 7.1264367816091951,
+                                "height": 12.382150502873563,
+                                "dropZones": [],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f33ebc80b.jpg",
+                                            "mime": "image\/jpeg",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 150,
+                                            "height": 260
+                                        },
+                                        "alt": "l-amarela"
+                                    },
+                                    "subContentId": "939423b4-f54f-4847-9e50-ab64ec82a884",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 22.52873563218391,
+                                "y": 2.8506515164040738,
+                                "width": 7.1264367816091951,
+                                "height": 12.382150502873563,
+                                "dropZones": [],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f36033577.jpg",
+                                            "mime": "image\/jpeg",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 150,
+                                            "height": 260
+                                        },
+                                        "alt": "l-azul"
+                                    },
+                                    "subContentId": "ad4d3558-d0e2-4e6c-8c53-856bced8223b",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 80.229885057471265,
+                                "y": 2.8506515164040738,
+                                "width": 7.1264367816091951,
+                                "height": 12.382150502873563,
+                                "dropZones": [],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f3825a5ef.jpg",
+                                            "mime": "image\/jpeg",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 150,
+                                            "height": 260
+                                        },
+                                        "alt": "l-marrom"
+                                    },
+                                    "subContentId": "3559bcee-ebcf-4870-aee7-31d696ed1ea6",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 2.298850574712644,
+                                "y": 2.8506515164040738,
+                                "width": 7.1264367816091951,
+                                "height": 12.352219542789852,
+                                "dropZones": [],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f3ab7499e.jpg",
+                                            "mime": "image\/jpeg",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 150,
+                                            "height": 260
+                                        },
+                                        "alt": "l-verde"
+                                    },
+                                    "subContentId": "6f792d96-500a-4b9a-b605-fb99bf7031b3",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 41.839080459770116,
+                                "y": 2.8506515164040738,
+                                "width": 7.1264367816091951,
+                                "height": 12.382150502873563,
+                                "dropZones": [],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f3ba5a9a3.jpg",
+                                            "mime": "image\/jpeg",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 150,
+                                            "height": 260
+                                        },
+                                        "alt": "l-vermelha"
+                                    },
+                                    "subContentId": "8b506c91-3863-40c6-b63e-9dbefadc96de",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 45.977011494252878,
+                                "y": 74.116939426505922,
+                                "width": 4.472627057028367,
+                                "height": 7.5718368534482758,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f4512c92c.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 153,
+                                            "height": 259
+                                        },
+                                        "alt": "lata-leite"
+                                    },
+                                    "subContentId": "fd690df9-4be3-42f9-8bb8-233775c8f9c9",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 75.862068965517253,
+                                "y": 62.714333360889626,
+                                "width": 3.5938577270754259,
+                                "height": 6.8355334051724137,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f465ed340.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 367,
+                                            "height": 698
+                                        },
+                                        "alt": "lata-refrigerante"
+                                    },
+                                    "subContentId": "d245be62-b926-4e17-8015-5e357dd2ef84",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 62.068965517241388,
+                                "y": 62.714333360889626,
+                                "width": 4.0260081732794042,
+                                "height": 7.372777658045977,
+                                "dropZones": [
+                                    "1"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f49a1d552.jpeg",
+                                            "mime": "image\/jpeg",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 166,
+                                            "height": 304
+                                        },
+                                        "alt": "caixa-leite-condensado"
+                                    },
+                                    "subContentId": "f8954ccc-6220-4bd4-8455-f63f0cd1662a",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 82.758620689655174,
+                                "y": 76.967590942909993,
+                                "width": 6.6815566425462531,
+                                "height": 6.235632183908046,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f4b6a9b71.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 900,
+                                            "height": 839
+                                        },
+                                        "alt": "revista"
+                                    },
+                                    "subContentId": "750e3852-6ce7-484f-8034-71a24477d727",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 35.322025193513767,
+                                "y": 59.859227701491172,
+                                "width": 7.385811501881232,
+                                "height": 4.4540229885057467,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f4d0d0aec.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 1280,
+                                            "height": 763
+                                        },
+                                        "alt": "casca-banana"
+                                    },
+                                    "subContentId": "8992925b-71ac-4dc4-bed4-4f7588138e1a",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 4.597701149425288,
+                                "y": 79.818242459314064,
+                                "width": 7.3767962677865269,
+                                "height": 5.5243759339080452,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f4e764906.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 259,
+                                            "height": 194
+                                        },
+                                        "alt": "casca-laranja"
+                                    },
+                                    "subContentId": "e74618dc-b92c-4384-8d13-25109368d62f",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 86.896551724137936,
+                                "y": 51.311727295273329,
+                                "width": 5,
+                                "height": 6.4629451395572666,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f51610200.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 1039,
+                                            "height": 1343
+                                        },
+                                        "alt": "vidro-requeijao"
+                                    },
+                                    "subContentId": "f7cc1c6b-ed60-428a-a881-0c0028442ed5",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 32.183908045977013,
+                                "y": 66.990310635495732,
+                                "width": 5,
+                                "height": 10.344827586206897,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f52861cca.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 348,
+                                            "height": 720
+                                        },
+                                        "alt": "vidro-refrigerante"
+                                    },
+                                    "subContentId": "547b823b-f128-41ab-8aa2-7a67b6295599",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 50.574712643678168,
+                                "y": 42.75977274606111,
+                                "width": 3.7231519414990908,
+                                "height": 7.9351203304597693,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f53e06b12.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 130,
+                                            "height": 282
+                                        },
+                                        "alt": "vidro-garrafa"
+                                    },
+                                    "subContentId": "c0896f74-e618-4a74-a6ae-5c9312ce2a5d",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 16.091954022988507,
+                                "y": 42.75977274606111,
+                                "width": 3.7334206864237598,
+                                "height": 7.8836540948275866,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f57fe0286.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 1004,
+                                            "height": 2120
+                                        },
+                                        "alt": "plastico-achocolatado"
+                                    },
+                                    "subContentId": "8e844c5a-0a20-4226-8492-89c49f59c9f6",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 66.666666666666671,
+                                "y": 76.967590942909993,
+                                "width": 6.346734761795048,
+                                "height": 6.235632183908046,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f598f27aa.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 300,
+                                            "height": 300
+                                        },
+                                        "alt": "plastico-pet"
+                                    },
+                                    "subContentId": "bf24ec6e-8ee0-421b-92e4-bd78f7015c81",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 62.068965517241388,
+                                "y": 39.909121229657032,
+                                "width": 7.1264367816091951,
+                                "height": 10.705526969254793,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86f5b3b8d64.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 852,
+                                            "height": 1280
+                                        },
+                                        "alt": "plastico-shampoo"
+                                    },
+                                    "subContentId": "628d5d59-414b-41ef-acb5-87fb37c52f0d",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 22.988505747126439,
+                                "y": 57.013030328081477,
+                                "width": 5,
+                                "height": 10.005464480874318,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "alt": "caixa-leite",
+                                        "file": {
+                                            "path": "images\/file-5f86fa8ac8553.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 915,
+                                            "height": 1831
+                                        }
+                                    },
+                                    "subContentId": "a5b31bea-ee4e-4fec-a3e9-d5290b045c09",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 57.471264367816097,
+                                "y": 84.094219733920184,
+                                "width": 5,
+                                "height": 4.112903225806452,
+                                "dropZones": [
+                                    "4",
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86fabb49e48.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 124,
+                                            "height": 102
+                                        },
+                                        "alt": "lim\u00e3o"
+                                    },
+                                    "subContentId": "57baad7e-3787-4645-a880-08c4f9053bc0",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            },
+                            {
+                                "x": 4.597701149425288,
+                                "y": 59.863681844485555,
+                                "width": 5,
+                                "height": 5.7692307692307683,
+                                "dropZones": [
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "3",
+                                    "4"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Imagem",
+                                        "file": {
+                                            "path": "images\/file-5f86fafaeb92a.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 390,
+                                            "height": 450
+                                        },
+                                        "alt": "lata-farinha"
+                                    },
+                                    "subContentId": "5063a8fb-e86b-4d46-a083-c8a42b91e46b",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "U",
+                                        "title": "Sem t\u00edtulo"
+                                    }
+                                },
+                                "backgroundOpacity": 0,
+                                "multiple": false
+                            }
+                        ],
+                        "dropZones": [
+                            {
+                                "x": 2.298850574712644,
+                                "y": 2.8417432304153114,
+                                "width": 7.1264367816091951,
+                                "height": 12.471264367816092,
+                                "correctElements": [
+                                    "11",
+                                    "12",
+                                    "13"
+                                ],
+                                "showLabel": false,
+                                "backgroundOpacity": 0,
+                                "tipsAndFeedback": {
+                                    "tip": ""
+                                },
+                                "single": false,
+                                "autoAlign": true,
+                                "label": "<div>l-verde<\/div>\n"
+                            },
+                            {
+                                "x": 22.988505747126439,
+                                "y": 2.8506515164040738,
+                                "width": 7.1264367816091951,
+                                "height": 12.471264367816092,
+                                "correctElements": [
+                                    "8",
+                                    "7",
+                                    "17"
+                                ],
+                                "showLabel": false,
+                                "backgroundOpacity": 0,
+                                "tipsAndFeedback": {
+                                    "tip": ""
+                                },
+                                "single": false,
+                                "autoAlign": true,
+                                "label": "<div>l-azul<\/div>\n"
+                            },
+                            {
+                                "x": 41.379310344827587,
+                                "y": 2.8506515164040738,
+                                "width": 7.1264367816091951,
+                                "height": 12.471264367816092,
+                                "correctElements": [
+                                    "14",
+                                    "15",
+                                    "16"
+                                ],
+                                "showLabel": false,
+                                "backgroundOpacity": 0,
+                                "tipsAndFeedback": {
+                                    "tip": ""
+                                },
+                                "single": false,
+                                "autoAlign": true,
+                                "label": "<div>l-vermelha<\/div>\n"
+                            },
+                            {
+                                "x": 60.919540229885065,
+                                "y": 2.8506515164040738,
+                                "width": 7.1264367816091951,
+                                "height": 12.471264367816092,
+                                "correctElements": [
+                                    "5",
+                                    "6",
+                                    "19"
+                                ],
+                                "showLabel": false,
+                                "backgroundOpacity": 0,
+                                "tipsAndFeedback": {
+                                    "tip": ""
+                                },
+                                "single": false,
+                                "autoAlign": true,
+                                "label": "<div>l-amarela<\/div>\n"
+                            },
+                            {
+                                "x": 80.459770114942529,
+                                "y": 2.8506515164040738,
+                                "width": 7.1264367816091951,
+                                "height": 12.471264367816092,
+                                "correctElements": [
+                                    "9",
+                                    "10",
+                                    "18"
+                                ],
+                                "showLabel": false,
+                                "backgroundOpacity": 0,
+                                "tipsAndFeedback": {
+                                    "tip": ""
+                                },
+                                "single": false,
+                                "autoAlign": true,
+                                "label": "<div>l-marrom<\/div>\n"
+                            }
+                        ]
+                    }
+                },
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 6
+                    },
+                    {
+                        "from": 7,
+                        "to": 13
+                    },
+                    {
+                        "from": 14,
+                        "to": 20
+                    },
+                    {
+                        "from": 21,
+                        "to": 26
+                    },
+                    {
+                        "from": 27,
+                        "to": 33
+                    },
+                    {
+                        "from": 34,
+                        "to": 40
+                    },
+                    {
+                        "from": 41,
+                        "to": 46
+                    },
+                    {
+                        "from": 47,
+                        "to": 53
+                    },
+                    {
+                        "from": 54,
+                        "to": 60
+                    },
+                    {
+                        "from": 61,
+                        "to": 66
+                    },
+                    {
+                        "from": 67,
+                        "to": 73
+                    },
+                    {
+                        "from": 74,
+                        "to": 80
+                    },
+                    {
+                        "from": 81,
+                        "to": 86
+                    },
+                    {
+                        "from": 87,
+                        "to": 93
+                    },
+                    {
+                        "from": 94,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableCheckButton": true,
+                    "showSolutionsRequiresInput": true,
+                    "singlePoint": false,
+                    "applyPenalties": true,
+                    "enableScoreExplanation": true,
+                    "dropZoneHighlighting": "dragging",
+                    "autoAlignSpacing": 2,
+                    "enableFullScreen": false,
+                    "showScorePoints": true,
+                    "showTitle": true
+                },
+                "grabbablePrefix": "Arrast\u00e1vel {num} de {total}.",
+                "grabbableSuffix": "Posicionado na zona de largada {num}.",
+                "dropzonePrefix": "Zona de largada {num} de {total}.",
+                "noDropzone": "Nenhuma zona de largada selecionada.",
+                "tipLabel": "Mostrar dica.",
+                "tipAvailable": "Dica dispon\u00edvel",
+                "correctAnswer": "Resposta correta",
+                "wrongAnswer": "Resposta incorreta",
+                "feedbackHeader": "Feedback",
+                "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                "scoreExplanationButtonLabel": "Mostrar explica\u00e7\u00e3o da pontua\u00e7\u00e3o",
+                "localize": {
+                    "fullscreen": "Tela cheia",
+                    "exitFullscreen": "Sair da tela cheia"
+                }
+            },
+            "library": "H5P.DragQuestion 1.13",
+            "metadata": {
+                "contentType": "Drag and Drop",
+                "license": "U",
+                "title": "Arraste para cada lixeira da coleta seletiva o seu descarte correto:"
+            },
+            "subContentId": "271d68ef-8ac3-4972-b506-76faa9c7e8bc"
+        },
+        {
+            "params": {
+                "media": {
+                    "disableImageZooming": false
+                },
+                "answers": [
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nBrasil\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Gana<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>China<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Paquist\u00e3o<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": true,
+                    "enableCheckButton": true,
+                    "type": "auto",
+                    "singlePoint": false,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": true
+                },
+                "UI": {
+                    "checkAnswerButton": "Verificar resposta",
+                    "showSolutionButton": "Mostrar solu\u00e7\u00e3o",
+                    "tryAgainButton": "Tentar novamente",
+                    "tipsLabel": "Mostrar dica",
+                    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                    "tipAvailable": "Dica dispon\u00edvel",
+                    "feedbackAvailable": "Feedback dispon\u00edvel",
+                    "readFeedback": "Ler feedback",
+                    "wrongAnswer": "Resposta incorreta",
+                    "correctAnswer": "Resposta correta",
+                    "shouldCheck": "Deveria ter sido marcado",
+                    "shouldNotCheck": "Deveria ter sido marcado",
+                    "noInput": "Por favor responda antes de visualizar a solu\u00e7\u00e3o"
+                },
+                "confirmCheck": {
+                    "header": "Finalizar ?",
+                    "body": "Tem certeza de que deseja finalizar ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Finalizar"
+                },
+                "confirmRetry": {
+                    "header": "Tentar novamente ?",
+                    "body": "Tem certeza de que deseja tentar novamente ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Confirmar"
+                },
+                "question": "<p>Em qual pai\u0301s fica localizado lixa\u0303o mais to\u0301xico do mundo?<\/p>\n"
+            },
+            "library": "H5P.MultiChoice 1.14",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Lix\u00e3o"
+            },
+            "subContentId": "1827027b-2980-4228-b257-fb45763aa7fe"
+        },
+        {
+            "params": {
+                "media": {
+                    "disableImageZooming": false
+                },
+                "answers": [
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Garrafa PET<\/div>\n"
+                    },
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Prego<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Cano<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Papel celofane<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": true,
+                    "enableCheckButton": true,
+                    "type": "auto",
+                    "singlePoint": false,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": true
+                },
+                "UI": {
+                    "checkAnswerButton": "Verificar resposta",
+                    "showSolutionButton": "Mostrar solu\u00e7\u00e3o",
+                    "tryAgainButton": "Tentar novamente",
+                    "tipsLabel": "Mostrar dica",
+                    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                    "tipAvailable": "Dica dispon\u00edvel",
+                    "feedbackAvailable": "Feedback dispon\u00edvel",
+                    "readFeedback": "Ler feedback",
+                    "wrongAnswer": "Resposta incorreta",
+                    "correctAnswer": "Resposta correta",
+                    "shouldCheck": "Deveria ter sido marcado",
+                    "shouldNotCheck": "Deveria ter sido marcado",
+                    "noInput": "Por favor responda antes de visualizar a solu\u00e7\u00e3o"
+                },
+                "confirmCheck": {
+                    "header": "Finalizar ?",
+                    "body": "Tem certeza de que deseja finalizar ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Finalizar"
+                },
+                "confirmRetry": {
+                    "header": "Tentar novamente ?",
+                    "body": "Tem certeza de que deseja tentar novamente ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Confirmar"
+                },
+                "question": "<p>Qual dos itens abaixo na\u0303o pode ser reciclado?<\/p>\n"
+            },
+            "library": "H5P.MultiChoice 1.14",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Reciclado"
+            },
+            "subContentId": "c7050bc4-b637-497e-b77b-add5ee0cc623"
+        },
+        {
+            "params": {
+                "media": {
+                    "disableImageZooming": false
+                },
+                "answers": [
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Papel<\/div>\n"
+                    },
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Pl\u00e1stico<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Chiclete<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>F\u00f3sforo<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": true,
+                    "enableCheckButton": true,
+                    "type": "auto",
+                    "singlePoint": false,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": true
+                },
+                "UI": {
+                    "checkAnswerButton": "Verificar resposta",
+                    "showSolutionButton": "Mostrar solu\u00e7\u00e3o",
+                    "tryAgainButton": "Tentar novamente",
+                    "tipsLabel": "Mostrar dica",
+                    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                    "tipAvailable": "Dica dispon\u00edvel",
+                    "feedbackAvailable": "Feedback dispon\u00edvel",
+                    "readFeedback": "Ler feedback",
+                    "wrongAnswer": "Resposta incorreta",
+                    "correctAnswer": "Resposta correta",
+                    "shouldCheck": "Deveria ter sido marcado",
+                    "shouldNotCheck": "Deveria ter sido marcado",
+                    "noInput": "Por favor responda antes de visualizar a solu\u00e7\u00e3o"
+                },
+                "confirmCheck": {
+                    "header": "Finalizar ?",
+                    "body": "Tem certeza de que deseja finalizar ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Finalizar"
+                },
+                "confirmRetry": {
+                    "header": "Tentar novamente ?",
+                    "body": "Tem certeza de que deseja tentar novamente ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Confirmar"
+                },
+                "question": "<p>Observe os itens abaixo. Qual deles demora mais tempo para se decompor no meio ambiente?<\/p>\n"
+            },
+            "library": "H5P.MultiChoice 1.14",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Decomposi\u00e7\u00e3o"
+            },
+            "subContentId": "273f3360-359e-49c3-9dc4-d7a2d0ac5a64"
+        },
+        {
+            "params": {
+                "media": {
+                    "disableImageZooming": false
+                },
+                "answers": [
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nRefazer, recuar e reiterar\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nRastrear, reabastecer e reter\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nReduzir, reutilizar e reciclar\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nRadicar, reiterar e reduzir\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": true,
+                    "enableCheckButton": true,
+                    "type": "auto",
+                    "singlePoint": false,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": true
+                },
+                "UI": {
+                    "checkAnswerButton": "Verificar resposta",
+                    "showSolutionButton": "Mostrar solu\u00e7\u00e3o",
+                    "tryAgainButton": "Tentar novamente",
+                    "tipsLabel": "Mostrar dica",
+                    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                    "tipAvailable": "Dica dispon\u00edvel",
+                    "feedbackAvailable": "Feedback dispon\u00edvel",
+                    "readFeedback": "Ler feedback",
+                    "wrongAnswer": "Resposta incorreta",
+                    "correctAnswer": "Resposta correta",
+                    "shouldCheck": "Deveria ter sido marcado",
+                    "shouldNotCheck": "Deveria ter sido marcado",
+                    "noInput": "Por favor responda antes de visualizar a solu\u00e7\u00e3o"
+                },
+                "confirmCheck": {
+                    "header": "Finalizar ?",
+                    "body": "Tem certeza de que deseja finalizar ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Finalizar"
+                },
+                "confirmRetry": {
+                    "header": "Tentar novamente ?",
+                    "body": "Tem certeza de que deseja tentar novamente ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Confirmar"
+                },
+                "question": "<p>Quais sa\u0303o os 3 R\u2019s da Sustentabilidade:<\/p>\n"
+            },
+            "library": "H5P.MultiChoice 1.14",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "3 R&#039;s"
+            },
+            "subContentId": "685b1c4e-cba5-4c11-8d1e-4dd1aca3d5e6"
+        },
+        {
+            "params": {
+                "media": {
+                    "disableImageZooming": false
+                },
+                "answers": [
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nOptando pela compra de produtos com embalagens recicla\u0301veis.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nReutilizando os materiais e objetos sempre que possi\u0301vel.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nApoiando iniciativas de reciclagem.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    },
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>\n<div>\n<div>\n<div>\nTodas as anteriores.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": true,
+                    "enableCheckButton": true,
+                    "type": "auto",
+                    "singlePoint": false,
+                    "randomAnswers": false,
+                    "showSolutionsRequiresInput": true,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": true
+                },
+                "UI": {
+                    "checkAnswerButton": "Verificar resposta",
+                    "showSolutionButton": "Mostrar solu\u00e7\u00e3o",
+                    "tryAgainButton": "Tentar novamente",
+                    "tipsLabel": "Mostrar dica",
+                    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                    "tipAvailable": "Dica dispon\u00edvel",
+                    "feedbackAvailable": "Feedback dispon\u00edvel",
+                    "readFeedback": "Ler feedback",
+                    "wrongAnswer": "Resposta incorreta",
+                    "correctAnswer": "Resposta correta",
+                    "shouldCheck": "Deveria ter sido marcado",
+                    "shouldNotCheck": "Deveria ter sido marcado",
+                    "noInput": "Por favor responda antes de visualizar a solu\u00e7\u00e3o"
+                },
+                "confirmCheck": {
+                    "header": "Finalizar ?",
+                    "body": "Tem certeza de que deseja finalizar ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Finalizar"
+                },
+                "confirmRetry": {
+                    "header": "Tentar novamente ?",
+                    "body": "Tem certeza de que deseja tentar novamente ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Confirmar"
+                },
+                "question": "<p>Uma das formas de colaborar com a preservac\u0327a\u0303o do meio ambiente e\u0301 reduzir a produc\u0327a\u0303o de resi\u0301duos. Mas como?<\/p>\n"
+            },
+            "library": "H5P.MultiChoice 1.14",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Res\u00edduos"
+            },
+            "subContentId": "a166532c-8444-4965-a79e-0c511e43c14b"
+        },
+        {
+            "params": {
+                "media": {
+                    "disableImageZooming": false
+                },
+                "answers": [
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Pl\u00e1stico<\/div>\n"
+                    },
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Papel e papel\u00e3o<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Vidro<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Metais<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": true,
+                    "enableCheckButton": true,
+                    "type": "auto",
+                    "singlePoint": false,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": true
+                },
+                "UI": {
+                    "checkAnswerButton": "Verificar resposta",
+                    "showSolutionButton": "Mostrar solu\u00e7\u00e3o",
+                    "tryAgainButton": "Tentar novamente",
+                    "tipsLabel": "Mostrar dica",
+                    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                    "tipAvailable": "Dica dispon\u00edvel",
+                    "feedbackAvailable": "Feedback dispon\u00edvel",
+                    "readFeedback": "Ler feedback",
+                    "wrongAnswer": "Resposta incorreta",
+                    "correctAnswer": "Resposta correta",
+                    "shouldCheck": "Deveria ter sido marcado",
+                    "shouldNotCheck": "Deveria ter sido marcado",
+                    "noInput": "Por favor responda antes de visualizar a solu\u00e7\u00e3o"
+                },
+                "confirmCheck": {
+                    "header": "Finalizar ?",
+                    "body": "Tem certeza de que deseja finalizar ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Finalizar"
+                },
+                "confirmRetry": {
+                    "header": "Tentar novamente ?",
+                    "body": "Tem certeza de que deseja tentar novamente ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Confirmar"
+                },
+                "question": "<p>Qual o resi\u0301duo mais produzido no Brasil?<\/p>\n"
+            },
+            "library": "H5P.MultiChoice 1.14",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Res\u00edduo"
+            },
+            "subContentId": "1dacc398-4402-4c75-bc50-2034bb58de8f"
+        },
+        {
+            "params": {
+                "media": {
+                    "disableImageZooming": false
+                },
+                "text": "<p>Digite o nome da empresa que cuida da Limpeza urbana da cidade do Rio de Janeiro?<\/p>\n",
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "showSolutions": "Mostrar solu\u00e7\u00e3o",
+                "tryAgain": "Tentar novamente",
+                "checkAnswer": "Verificar resposta",
+                "notFilledOut": "Por favor, preencha todos os espa\u00e7os em branco para visualizar a solu\u00e7\u00e3o",
+                "answerIsCorrect": "&#039;:ans&#039; est\u00e1 correto",
+                "answerIsWrong": "&#039;:ans&#039; est\u00e1 incorreto",
+                "answeredCorrectly": "Respondido corretamente",
+                "answeredIncorrectly": "Respondido incorretamente",
+                "solutionLabel": "Resposta correta:",
+                "inputLabel": "Espa\u00e7o em branco @num de @total",
+                "inputHasTipLabel": "Dica dispon\u00edvel",
+                "tipLabel": "Dica",
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": true,
+                    "enableCheckButton": true,
+                    "autoCheck": false,
+                    "caseSensitive": false,
+                    "showSolutionsRequiresInput": true,
+                    "separateLines": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "acceptSpellingErrors": false
+                },
+                "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+                "confirmCheck": {
+                    "header": "Finalizar ?",
+                    "body": "Tem certeza de que deseja finalizar ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Finalizar"
+                },
+                "confirmRetry": {
+                    "header": "Tentar novamente ?",
+                    "body": "Voc\u00ea tem certeza de que deseja tentar novamente ?",
+                    "cancelLabel": "Cancelar",
+                    "confirmLabel": "Confirmar"
+                },
+                "questions": [
+                    "<p>*COMLURB*<\/p>\n"
+                ]
+            },
+            "library": "H5P.Blanks 1.12",
+            "metadata": {
+                "contentType": "Fill in the Blanks",
+                "license": "U",
+                "title": "Empresa de limpeza"
+            },
+            "subContentId": "cb6e0360-5531-4156-8ba9-079f6fcac022"
+        }
+    ],
+    "disableBackwardsNavigation": false,
+    "randomQuestions": true,
+    "endGame": {
+        "showResultPage": true,
+        "showSolutionButton": true,
+        "showRetryButton": true,
+        "noResultMessage": "Finalizado",
+        "message": "Seu resultado:",
+        "overallFeedback": [
+            {
+                "from": 0,
+                "to": 100
+            }
+        ],
+        "solutionButtonText": "Mostrar solu\u00e7\u00e3o",
+        "retryButtonText": "Tentar novamente",
+        "finishButtonText": "Terminar",
+        "showAnimations": false,
+        "skippable": false,
+        "skipButtonText": "Skip video"
+    },
+    "override": {
+        "checkButton": true
+    },
+    "texts": {
+        "prevButton": "Quest\u00e3o anterior",
+        "nextButton": "Pr\u00f3xima quest\u00e3o",
+        "finishButton": "Finalizar",
+        "textualProgress": "Question: @current of @total questions",
+        "jumpToQuestion": "Question %d of %total",
+        "questionLabel": "Quest\u00e3o",
+        "readSpeakerProgress": "Question @current of @total",
+        "unansweredText": "Unanswered",
+        "answeredText": "Answered",
+        "currentQuestionText": "Quest\u00e3o atual"
+    }
+}
