@@ -1,0 +1,166 @@
+{
+    "taskDescription": "TENTE ENCONTRAR O ANIMAL OBSERVANDO OS OLHOS:",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f84d3f8874b1.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 625,
+                "height": 479
+            },
+            "imageAlt": "CAVALO",
+            "match": {
+                "path": "images\/match-5f84d407b59e2.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 240,
+                "height": 213
+            },
+            "matchAlt": "OLHO DO CAVALO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f84d428833a0.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 715,
+                "height": 506
+            },
+            "imageAlt": "CAMALE\u00c3O",
+            "match": {
+                "path": "images\/match-5f84d436876d1.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 241,
+                "height": 214
+            },
+            "matchAlt": "OLHO DO CAMALE\u00c3O"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f84d5771c26d.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 635,
+                "height": 418
+            },
+            "imageAlt": "CORUJA",
+            "match": {
+                "path": "images\/match-5f84d5845b36c.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 239,
+                "height": 205
+            },
+            "matchAlt": "OLHO DA CORUJA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f84d59b1ad7b.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 662,
+                "height": 446
+            },
+            "imageAlt": "PERERECA",
+            "match": {
+                "path": "images\/match-5f84d5a7e969b.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 237,
+                "height": 213
+            },
+            "matchAlt": "OLHO DA PERERECA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f84d5ba09953.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 639,
+                "height": 426
+            },
+            "imageAlt": "TUCANO",
+            "match": {
+                "path": "images\/match-5f84d5c5cce78.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 246,
+                "height": 210
+            },
+            "matchAlt": "OLHO DO TUCANO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f84d5d7614c8.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 462,
+                "height": 286
+            },
+            "imageAlt": "ARANHA",
+            "match": {
+                "path": "images\/match-5f84d5e30afaa.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 364,
+                "height": 181
+            },
+            "matchAlt": "OLHOS DA ARANHA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f84d5f6cdc17.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 636,
+                "height": 496
+            },
+            "imageAlt": "ABELHA",
+            "match": {
+                "path": "images\/match-5f84d601e2be6.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 663,
+                "height": 446
+            },
+            "matchAlt": "OLHOS DA ABELHA"
+        }
+    ],
+    "behaviour": true,
+    "l10n": {
+        "checkAnswer": "Check",
+        "tryAgain": "Retry",
+        "showSolution": "Show Solution",
+        "score": "You got @score of @total points"
+    }
+}
