@@ -1,0 +1,337 @@
+{
+    "scoreShow": "Verificar resposta",
+    "tryAgain": "Tentar novamente",
+    "scoreExplanation": "Respostas corretas d\u00e3o +1 ponto. Respostas incorretas d\u00e3o -1 ponto. A menor pontua\u00e7\u00e3o poss\u00edvel \u00e9 0.",
+    "question": {
+        "settings": {
+            "size": {
+                "width": 620,
+                "height": 310
+            }
+        },
+        "task": {
+            "elements": [
+                {
+                    "x": 25.806451612903224,
+                    "y": 35.483870967741936,
+                    "width": 18.750015625,
+                    "height": 12.1875,
+                    "dropZones": [],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f9197070c465.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 269,
+                                "height": 164
+                            },
+                            "alt": "LARANJA"
+                        },
+                        "subContentId": "a516ac41-9df0-4b5f-be4f-14727438e2e2",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 22.58064516129032,
+                    "y": 16.129032258064516,
+                    "width": 2.375,
+                    "height": 2.375,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f919727a8343.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 340,
+                                "height": 340
+                            },
+                            "alt": "A"
+                        },
+                        "subContentId": "b02d62db-8b33-4b37-988c-cc4918fd24a3",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 50,
+                    "y": 16.129032258064516,
+                    "width": 2.375,
+                    "height": 2.375,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f919740e54c8.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 340,
+                                "height": 340
+                            },
+                            "alt": "A"
+                        },
+                        "subContentId": "ae05c8d8-2c4a-4e4f-9894-2b673c2ee785",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 75.806451612903217,
+                    "y": 16.129032258064516,
+                    "width": 2.375,
+                    "height": 2.375,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f919757a8711.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 340,
+                                "height": 340
+                            },
+                            "alt": "A"
+                        },
+                        "subContentId": "fdd5c271-d9a4-4aba-b3ef-ef804c6b7074",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 35.483870967741936,
+                    "y": 16.129032258064516,
+                    "width": 2.375,
+                    "height": 2.375,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f919769279e5.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 340,
+                                "height": 340
+                            },
+                            "alt": "I"
+                        },
+                        "subContentId": "af52c5f7-f463-4e49-a7e7-a1f32dd9ab49",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 62.903225806451609,
+                    "y": 16.129032258064516,
+                    "width": 2.375,
+                    "height": 2.375,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f919784cd52a.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 340,
+                                "height": 340
+                            },
+                            "alt": "E"
+                        },
+                        "subContentId": "f0399c1e-3b0e-4527-88c4-6003c8c4f0c4",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                }
+            ],
+            "dropZones": [
+                {
+                    "x": 32.258064516129032,
+                    "y": 77.41935483870968,
+                    "width": 2.375,
+                    "height": 2.375,
+                    "correctElements": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "showLabel": false,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>A<\/div>\n",
+                    "backgroundOpacity": 0
+                },
+                {
+                    "x": 45.161290322580641,
+                    "y": 77.41935483870968,
+                    "width": 2.375,
+                    "height": 2.375,
+                    "correctElements": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>A<\/div>\n"
+                },
+                {
+                    "x": 62.903225806451609,
+                    "y": 77.41935483870968,
+                    "width": 2.375,
+                    "height": 2.375,
+                    "correctElements": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>A<\/div>\n"
+                }
+            ]
+        }
+    },
+    "overallFeedback": [
+        {
+            "from": 0,
+            "to": 100
+        }
+    ],
+    "behaviour": {
+        "enableRetry": true,
+        "enableCheckButton": true,
+        "showSolutionsRequiresInput": true,
+        "singlePoint": false,
+        "applyPenalties": true,
+        "enableScoreExplanation": true,
+        "dropZoneHighlighting": "dragging",
+        "autoAlignSpacing": 2,
+        "enableFullScreen": false,
+        "showScorePoints": true,
+        "showTitle": true
+    },
+    "grabbablePrefix": "Arrast\u00e1vel {num} de {total}.",
+    "grabbableSuffix": "Posicionado na zona de largada {num}.",
+    "dropzonePrefix": "Zona de largada {num} de {total}.",
+    "noDropzone": "Nenhuma zona de largada selecionada.",
+    "tipLabel": "Mostrar dica.",
+    "tipAvailable": "Dica dispon\u00edvel",
+    "correctAnswer": "Resposta correta",
+    "wrongAnswer": "Resposta incorreta",
+    "feedbackHeader": "Feedback",
+    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+    "scoreExplanationButtonLabel": "Mostrar explica\u00e7\u00e3o da pontua\u00e7\u00e3o",
+    "localize": {
+        "fullscreen": "Tela cheia",
+        "exitFullscreen": "Sair da tela cheia"
+    }
+}
