@@ -1,0 +1,84 @@
+{
+    "taskDescription": "ORGANIZE AS P\u00caRAS DA MENOR PARA A MAIOR",
+    "altTaskDescription": "Make the following list be ordered correctly. Use the cursor keys to navigate through the list items, use space to activate or deactivate an item and the cursor keys to move it",
+    "sequenceImages": [
+        {
+            "image": {
+                "path": "images\/image-5f9098417cf44.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 162,
+                "height": 160
+            },
+            "imageDescription": "P\u00caRA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f90984ddc524.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 165,
+                "height": 166
+            },
+            "imageDescription": "P\u00caRA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f90985643ed4.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 162,
+                "height": 164
+            },
+            "imageDescription": "P\u00caRA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f90985d5bba6.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 163,
+                "height": 161
+            },
+            "imageDescription": "P\u00caRA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f9098665f927.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 163,
+                "height": 160
+            },
+            "imageDescription": "P\u00caRA"
+        }
+    ],
+    "behaviour": {
+        "enableSolution": true,
+        "enableRetry": true,
+        "enableResume": true
+    },
+    "l10n": {
+        "totalMoves": "TOTAL DE MOVIMENTOS",
+        "timeSpent": "TEMPO GASTO",
+        "score": "VOC\u00ca GANHOU @score DE @total PONTOS",
+        "checkAnswer": "VERIFICAR",
+        "tryAgain": "TENTAR NOVAMENTE",
+        "showSolution": "MOSTRAR SOLU\u00c7\u00c3O",
+        "resume": "RESUMIR",
+        "audioNotSupported": "Audio Error",
+        "ariaPlay": "Play the corresponding audio",
+        "ariaMoveDescription": "Moved @cardDesc from @posSrc to @posDes",
+        "ariaCardDesc": "sequencing item"
+    }
+}

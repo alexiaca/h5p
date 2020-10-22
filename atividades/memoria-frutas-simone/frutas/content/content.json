@@ -1,0 +1,270 @@
+{
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f8f47259713b.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 202,
+                "height": 195
+            },
+            "imageAlt": "LARANJA",
+            "match": {
+                "path": "images\/match-5f8f474235159.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 202,
+                "height": 195
+            },
+            "matchAlt": "LARANJA",
+            "description": "PARAB\u00c9NS!",
+            "audio": [
+                {
+                    "path": "audios\/audio-5f90835f433e5.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ],
+            "matchAudio": [
+                {
+                    "path": "audios\/matchAudio-5f90836be4c1b.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ]
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8f477136db5.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 197,
+                "height": 186
+            },
+            "imageAlt": "LIM\u00c3O",
+            "match": {
+                "path": "images\/match-5f8f47849eb34.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 197,
+                "height": 186
+            },
+            "matchAlt": "LIM\u00c3O",
+            "audio": [
+                {
+                    "path": "audios\/audio-5f8f4815bee3d.wav",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ],
+            "description": "PARAB\u00c9NS!",
+            "matchAudio": [
+                {
+                    "path": "audios\/matchAudio-5f90837bf1725.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ]
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8f4846b702f.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 194,
+                "height": 185
+            },
+            "imageAlt": "MA\u00c7\u00c3",
+            "match": {
+                "path": "images\/match-5f8f48566bb64.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 194,
+                "height": 185
+            },
+            "matchAlt": "MA\u00c7\u00c3",
+            "description": "PARAB\u00c9NS!",
+            "audio": [
+                {
+                    "path": "audios\/audio-5f90838a1f832.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ],
+            "matchAudio": [
+                {
+                    "path": "audios\/matchAudio-5f9083938c5ca.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ]
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8f487cb687b.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 198,
+                "height": 188
+            },
+            "imageAlt": "P\u00caSSEGO",
+            "match": {
+                "path": "images\/match-5f8f489005637.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 198,
+                "height": 188
+            },
+            "matchAlt": "P\u00caSSEGO",
+            "description": "PARAB\u00c9NS!",
+            "audio": [
+                {
+                    "path": "audios\/audio-5f9083a12ec30.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ],
+            "matchAudio": [
+                {
+                    "path": "audios\/matchAudio-5f9083ab37f81.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ]
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8f48b544d38.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 195,
+                "height": 186
+            },
+            "imageAlt": "PERA",
+            "match": {
+                "path": "images\/match-5f8f48c3d07ff.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 195,
+                "height": 186
+            },
+            "matchAlt": "PERA",
+            "description": "PARAB\u00c9NS!",
+            "audio": [
+                {
+                    "path": "audios\/audio-5f9083b766b46.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ],
+            "matchAudio": [
+                {
+                    "path": "audios\/matchAudio-5f9083bfe3e18.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ]
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8f48e0f1ab9.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 201,
+                "height": 199
+            },
+            "imageAlt": "BANANA",
+            "match": {
+                "path": "images\/match-5f8f48ed32de2.png",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 201,
+                "height": 199
+            },
+            "matchAlt": "BANANA",
+            "description": "PARAB\u00c9NS!",
+            "audio": [
+                {
+                    "path": "audios\/audio-5f9083cd5993a.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ],
+            "matchAudio": [
+                {
+                    "path": "audios\/matchAudio-5f9083d6a1316.wav ",
+                    "mime": "audio\/x-wav",
+                    "copyright": {
+                        "license": "U"
+                    }
+                }
+            ]
+        }
+    ],
+    "behaviour": {
+        "useGrid": true,
+        "allowRetry": true,
+        "numCardsToUse": 12
+    },
+    "lookNFeel": {
+        "themeColor": "#909090"
+    },
+    "l10n": {
+        "cardTurns": "Cart\u00e3o virou",
+        "timeSpent": "Tempo gasto",
+        "feedback": "Bom trabalho!",
+        "tryAgain": "Tentar novamente?",
+        "closeLabel": "Fechar",
+        "label": "Jogo da mem\u00f3ria. Forme pares de cart\u00f5es.",
+        "done": "Todas os cart\u00f5es foram encontrados.",
+        "cardPrefix": "Cart\u00e3o %num:",
+        "cardUnturned": "N\u00e3o virado.",
+        "cardMatched": "Combina\u00e7\u00e3o encontrada."
+    }
+}

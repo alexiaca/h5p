@@ -1,0 +1,513 @@
+{
+    "scoreShow": "Verificar resposta",
+    "tryAgain": "Tentar novamente",
+    "scoreExplanation": "Respostas corretas d\u00e3o +1 ponto. Respostas incorretas d\u00e3o -1 ponto. A menor pontua\u00e7\u00e3o poss\u00edvel \u00e9 0.",
+    "question": {
+        "settings": {
+            "size": {
+                "width": 620,
+                "height": 310
+            }
+        },
+        "task": {
+            "elements": [
+                {
+                    "x": 6.4516129032258061,
+                    "y": 54.838709677419352,
+                    "width": 6.2500015624999996,
+                    "height": 8.125,
+                    "dropZones": [],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f907f5b7bf4d.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 467,
+                                "height": 601
+                            },
+                            "alt": "LARANJAS"
+                        },
+                        "subContentId": "5be3acd4-c4c7-495d-8e39-1201b0e85d95",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 27.419354838709676,
+                    "y": 54.838709677419352,
+                    "width": 6.2500015624999996,
+                    "height": 8.125,
+                    "dropZones": [],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f907f85e7de4.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 467,
+                                "height": 601
+                            },
+                            "alt": "MA\u00c7\u00c3"
+                        },
+                        "subContentId": "9d507f81-93dc-4460-b618-4bef46df3039",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 46.774193548387096,
+                    "y": 54.838709677419352,
+                    "width": 6.2500015624999996,
+                    "height": 8.1249765625000006,
+                    "dropZones": [],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f907fa301f1d.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 467,
+                                "height": 601
+                            },
+                            "alt": "PERA"
+                        },
+                        "subContentId": "8bf45558-1642-483b-a8e3-30763854cc4b",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 64.516129032258064,
+                    "y": 54.838709677419352,
+                    "width": 6.25,
+                    "height": 8.125,
+                    "dropZones": [],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f907fbb340bb.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 511,
+                                "height": 657
+                            },
+                            "alt": "AMEIXA"
+                        },
+                        "subContentId": "c0cea2e9-a411-44a9-a16c-69ebe8f67183",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 82.258064516129025,
+                    "y": 54.838709677419352,
+                    "width": 6.25,
+                    "height": 8.125,
+                    "dropZones": [],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f907ff125a0e.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 485,
+                                "height": 624
+                            },
+                            "alt": "ABACAXI"
+                        },
+                        "subContentId": "5d857a96-932c-4467-a5df-9c3d6b1545b2",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 8.064516129032258,
+                    "y": 19.35483870967742,
+                    "width": 2.4999968749999999,
+                    "height": 2.5,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f9080ad78224.png ",
+                                "mime": "image\/png",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 159,
+                                "height": 156
+                            },
+                            "alt": "CINCO"
+                        },
+                        "subContentId": "dbcfe5aa-8311-4ca3-9c42-02cc14b39962",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 25.806451612903224,
+                    "y": 19.35483870967742,
+                    "width": 2.4999984375000004,
+                    "height": 2.5,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f9080c49856b.png ",
+                                "mime": "image\/png",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 156,
+                                "height": 151
+                            },
+                            "alt": "DOIS"
+                        },
+                        "subContentId": "0df96bca-ebc5-4388-b302-9b038d8e56e7",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 41.935483870967744,
+                    "y": 19.35483870967742,
+                    "width": 2.5,
+                    "height": 2.5,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f9080e50236b.png ",
+                                "mime": "image\/png",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 154,
+                                "height": 154
+                            },
+                            "alt": "QUATRO"
+                        },
+                        "subContentId": "c70f3531-3388-41e2-b6ce-6185dd1d6cc3",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 59.677419354838705,
+                    "y": 19.35483870967742,
+                    "width": 2.5,
+                    "height": 2.5,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f908102e8c2c.png ",
+                                "mime": "image\/png",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 161,
+                                "height": 160
+                            },
+                            "alt": "UM"
+                        },
+                        "subContentId": "95a90603-a8ad-4505-a485-4bcf55337f68",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 77.41935483870968,
+                    "y": 19.35483870967742,
+                    "width": 2.5000015624999996,
+                    "height": 2.5,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f90811f05dad.png ",
+                                "mime": "image\/png",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 157,
+                                "height": 151
+                            },
+                            "alt": "TR\u00caS"
+                        },
+                        "subContentId": "a1e4c5e3-c503-47d8-aa58-fd661a177f7d",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                }
+            ],
+            "dropZones": [
+                {
+                    "x": 11.29032258064516,
+                    "y": 58.064516129032256,
+                    "width": 2.5,
+                    "height": 2.5,
+                    "correctElements": [
+                        "9"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>LARANJA<\/div>\n"
+                },
+                {
+                    "x": 51.612903225806448,
+                    "y": 54.838709677419352,
+                    "width": 2.5,
+                    "height": 2.5,
+                    "correctElements": [
+                        "8"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>PERA<\/div>\n"
+                },
+                {
+                    "x": 32.258064516129032,
+                    "y": 58.064516129032256,
+                    "width": 2.5,
+                    "height": 2.5,
+                    "correctElements": [
+                        "5"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>MA\u00c7\u00c3<\/div>\n"
+                },
+                {
+                    "x": 69.354838709677423,
+                    "y": 58.064516129032256,
+                    "width": 2.5,
+                    "height": 2.5,
+                    "correctElements": [
+                        "7"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>AMEIXA<\/div>\n"
+                },
+                {
+                    "x": 87.096774193548384,
+                    "y": 58.064516129032256,
+                    "width": 2.5,
+                    "height": 2.5,
+                    "correctElements": [
+                        "6"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>ABACAXI<\/div>\n"
+                }
+            ]
+        }
+    },
+    "overallFeedback": [
+        {
+            "from": 0,
+            "to": 100
+        }
+    ],
+    "behaviour": {
+        "enableRetry": true,
+        "enableCheckButton": true,
+        "showSolutionsRequiresInput": true,
+        "singlePoint": false,
+        "applyPenalties": true,
+        "enableScoreExplanation": true,
+        "dropZoneHighlighting": "dragging",
+        "autoAlignSpacing": 2,
+        "enableFullScreen": false,
+        "showScorePoints": true,
+        "showTitle": true
+    },
+    "grabbablePrefix": "Arrast\u00e1vel {num} de {total}.",
+    "grabbableSuffix": "Posicionado na zona de largada {num}.",
+    "dropzonePrefix": "Zona de largada {num} de {total}.",
+    "noDropzone": "Nenhuma zona de largada selecionada.",
+    "tipLabel": "Mostrar dica.",
+    "tipAvailable": "Dica dispon\u00edvel",
+    "correctAnswer": "Resposta correta",
+    "wrongAnswer": "Resposta incorreta",
+    "feedbackHeader": "Feedback",
+    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+    "scoreExplanationButtonLabel": "Mostrar explica\u00e7\u00e3o da pontua\u00e7\u00e3o",
+    "localize": {
+        "fullscreen": "Tela cheia",
+        "exitFullscreen": "Sair da tela cheia"
+    }
+}

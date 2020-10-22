@@ -1,0 +1,122 @@
+{
+    "taskDescription": "FORME PARES DOS ANIMAIS COM AS SUAS PELES.",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f8dd9af21bd3.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 657,
+                "height": 372
+            },
+            "imageAlt": "COBRA",
+            "match": {
+                "path": "images\/match-5f8dd9bca6443.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 646,
+                "height": 484
+            },
+            "matchAlt": "PELE DA COBRA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8dd9d25bb92.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 709,
+                "height": 417
+            },
+            "imageAlt": "LEOPARDO",
+            "match": {
+                "path": "images\/match-5f8dd9e5cf230.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 647,
+                "height": 487
+            },
+            "matchAlt": "PELE DO LEOPARDO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8dd9feac75a.jpg  ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 413,
+                "height": 601
+            },
+            "imageAlt": "GIRAFA",
+            "match": {
+                "path": "images\/match-5f8dda0b092e5.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 649,
+                "height": 485
+            },
+            "matchAlt": "PELE DA GIRAFA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8dda1d717c1.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 711,
+                "height": 491
+            },
+            "imageAlt": "ZEBRA",
+            "match": {
+                "path": "images\/match-5f8dda29e2e22.jpg",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 644,
+                "height": 483
+            },
+            "matchAlt": "PELE DA ZEBRA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8dda3b805f1.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 715,
+                "height": 485
+            },
+            "imageAlt": "TIGRE",
+            "match": {
+                "path": "images\/match-5f8dda45e34e9.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 644,
+                "height": 485
+            },
+            "matchAlt": "PELE DO TIGRE"
+        }
+    ],
+    "behaviour": false,
+    "l10n": {
+        "checkAnswer": "Check",
+        "tryAgain": "Retry",
+        "showSolution": "Show Solution",
+        "score": "You got @score of @total points"
+    }
+}

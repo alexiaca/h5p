@@ -1,0 +1,100 @@
+{
+    "taskDescription": "FORME PARES DOS ANIMAIS COM AS SUAS PEGADAS.",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f8ef883ded5f.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 720,
+                "height": 489
+            },
+            "imageAlt": "VEADO",
+            "match": {
+                "path": "images\/match-5f8ef89633ea9.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 222,
+                "height": 211
+            },
+            "matchAlt": "PEGADAS DO VEADO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8ef8aee36fd.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 720,
+                "height": 483
+            },
+            "imageAlt": "URSO",
+            "match": {
+                "path": "images\/match-5f8ef8bbc6d74.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 225,
+                "height": 227
+            },
+            "matchAlt": "PEGADAS DO URSO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8ef8d040794.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 719,
+                "height": 484
+            },
+            "imageAlt": "COELHO",
+            "match": {
+                "path": "images\/match-5f8ef8dc7df96.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 225,
+                "height": 227
+            },
+            "matchAlt": "PEGADAS DO COELHO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f8ef8f30a616.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 720,
+                "height": 554
+            },
+            "imageAlt": "PATO",
+            "match": {
+                "path": "images\/match-5f8ef8fe5e574.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 218,
+                "height": 222
+            },
+            "matchAlt": "PEGADA DO PATO"
+        }
+    ],
+    "behaviour": false,
+    "l10n": {
+        "checkAnswer": "Check",
+        "tryAgain": "Retry",
+        "showSolution": "Show Solution",
+        "score": "You got @score of @total points"
+    }
+}

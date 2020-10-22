@@ -1,0 +1,144 @@
+{
+    "taskDescription": "FORME PARES DAS FRUTAS COM OS SEUS NOMES",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f902094461e2.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 108,
+                "height": 129
+            },
+            "imageAlt": "ABACAXI",
+            "match": {
+                "path": "images\/match-5f90221e68bc2.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 480,
+                "height": 179
+            },
+            "matchAlt": "ABACAXI"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f90225b8b2f5.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 198,
+                "height": 200
+            },
+            "imageAlt": "UVA",
+            "match": {
+                "path": "images\/match-5f90226dc204e.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 468,
+                "height": 176
+            },
+            "matchAlt": "UVA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f9022b956fc9.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 197,
+                "height": 186
+            },
+            "imageAlt": "LIM\u00c3O",
+            "match": {
+                "path": "images\/match-5f9022f8b4b83.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 509,
+                "height": 204
+            },
+            "matchAlt": "LIM\u00c3O"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f902312821d4.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 194,
+                "height": 185
+            },
+            "imageAlt": "MA\u00c7\u00c3",
+            "match": {
+                "path": "images\/match-5f90232245a5a.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 479,
+                "height": 184
+            },
+            "matchAlt": "MA\u00c7\u00c3"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f90233d0a612.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 202,
+                "height": 200
+            },
+            "imageAlt": "MORANGO",
+            "match": {
+                "path": "images\/match-5f90234eb158e.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 511,
+                "height": 205
+            },
+            "matchAlt": "MORANGO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f902369655a7.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 200,
+                "height": 200
+            },
+            "imageAlt": "LARANJA",
+            "match": {
+                "path": "images\/match-5f9023798350f.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 511,
+                "height": 194
+            },
+            "matchAlt": "LARANJA"
+        }
+    ],
+    "behaviour": false,
+    "l10n": {
+        "checkAnswer": "Check",
+        "tryAgain": "Retry",
+        "showSolution": "Show Solution",
+        "score": "You got @score of @total points"
+    }
+}
