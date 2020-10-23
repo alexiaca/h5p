@@ -1,0 +1,42 @@
+<html>
+
+<head>
+  <link type="text/css" rel="stylesheet" media="all" href="dist/styles/h5p.css" />
+  <link href="https://fonts.google.com/specimen/Patrick+Hand?selection.family=Acme#standard-styles">
+  <meta charset="utf-8" />
+  <script type="text/javascript" src="dist/main.bundle.js"></script>
+
+  <style>
+    .container {
+      align-items: center;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    #h5p-container {
+      max-width: 800px;
+      max-height: 600px;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div id="h5p-container"></div>
+  </div>
+
+  <script type="text/javascript">
+    const {
+      H5P
+    } = H5PStandalone;
+    new H5P(document.getElementById('h5p-container'), 'adriana', {
+      frameJs: 'dist/frame.bundle.js',
+      frameCss: 'dist/styles/h5p.css'
+    });
+  </script>
+</body>
+
+</html>

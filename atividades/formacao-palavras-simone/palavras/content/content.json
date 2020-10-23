@@ -1,0 +1,122 @@
+{
+    "taskDescription": "FORME OS NOMES DAS FRUTAS",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f92ed4635ce9.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 129,
+                "height": 126
+            },
+            "imageAlt": "LIM\u00c3O",
+            "match": {
+                "path": "images\/match-5f92ed5612e86.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 130,
+                "height": 126
+            },
+            "matchAlt": "LIM\u00c3O"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f92ed67f35f4.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 128,
+                "height": 126
+            },
+            "imageAlt": "MAM\u00c3O",
+            "match": {
+                "path": "images\/match-5f92ed77ea7c8.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 131,
+                "height": 126
+            },
+            "matchAlt": "MAM\u00c3O"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f92ed8a555b9.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 125,
+                "height": 124
+            },
+            "imageAlt": "COCO",
+            "match": {
+                "path": "images\/match-5f92ed9520feb.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 129,
+                "height": 124
+            },
+            "matchAlt": "COCO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f92eda473b14.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 130,
+                "height": 126
+            },
+            "imageAlt": "FIGO",
+            "match": {
+                "path": "images\/match-5f92edb0b3477.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 132,
+                "height": 126
+            },
+            "matchAlt": "FIGO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f92edca599db.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 127,
+                "height": 127
+            },
+            "imageAlt": "PERA",
+            "match": {
+                "path": "images\/match-5f92edda27ec3.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 132,
+                "height": 128
+            },
+            "matchAlt": "PERA"
+        }
+    ],
+    "behaviour": false,
+    "l10n": {
+        "checkAnswer": "Check",
+        "tryAgain": "Retry",
+        "showSolution": "Show Solution",
+        "score": "You got @score of @total points"
+    }
+}
