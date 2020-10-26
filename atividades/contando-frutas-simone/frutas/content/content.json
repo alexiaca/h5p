@@ -22,7 +22,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f907f5b7bf4d.jpg ",
+                                "path": "images\/file-5f907f5b7bf4d.jpg",
                                 "mime": "image\/jpeg",
                                 "copyright": {
                                     "license": "U"
@@ -55,7 +55,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f907f85e7de4.jpg ",
+                                "path": "images\/file-5f907f85e7de4.jpg",
                                 "mime": "image\/jpeg",
                                 "copyright": {
                                     "license": "U"
@@ -88,7 +88,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f907fa301f1d.jpg ",
+                                "path": "images\/file-5f907fa301f1d.jpg",
                                 "mime": "image\/jpeg",
                                 "copyright": {
                                     "license": "U"
@@ -121,7 +121,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f907fbb340bb.jpg ",
+                                "path": "images\/file-5f907fbb340bb.jpg",
                                 "mime": "image\/jpeg",
                                 "copyright": {
                                     "license": "U"
@@ -154,7 +154,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f907ff125a0e.jpg ",
+                                "path": "images\/file-5f907ff125a0e.jpg",
                                 "mime": "image\/jpeg",
                                 "copyright": {
                                     "license": "U"
@@ -193,7 +193,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f9080ad78224.png ",
+                                "path": "images\/file-5f9080ad78224.png",
                                 "mime": "image\/png",
                                 "copyright": {
                                     "license": "U"
@@ -232,7 +232,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f9080c49856b.png ",
+                                "path": "images\/file-5f9080c49856b.png",
                                 "mime": "image\/png",
                                 "copyright": {
                                     "license": "U"
@@ -271,7 +271,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f9080e50236b.png ",
+                                "path": "images\/file-5f9080e50236b.png",
                                 "mime": "image\/png",
                                 "copyright": {
                                     "license": "U"
@@ -310,7 +310,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f908102e8c2c.png ",
+                                "path": "images\/file-5f908102e8c2c.png",
                                 "mime": "image\/png",
                                 "copyright": {
                                     "license": "U"
@@ -349,7 +349,7 @@
                         "params": {
                             "contentName": "Imagem",
                             "file": {
-                                "path": "images\/file-5f90811f05dad.png ",
+                                "path": "images\/file-5f90811f05dad.png",
                                 "mime": "image\/png",
                                 "copyright": {
                                     "license": "U"
@@ -388,10 +388,10 @@
                     },
                     "single": true,
                     "autoAlign": true,
+                    "label": "<div>LARANJA<\/div>\n",
                     "type": {
                         "library": "H5P.DragQuestionDropzone 0.1"
-                    },
-                    "label": "<div>LARANJA<\/div>\n"
+                    }
                 },
                 {
                     "x": 51.612903225806448,
@@ -408,10 +408,10 @@
                     },
                     "single": true,
                     "autoAlign": true,
+                    "label": "<div>PERA<\/div>\n",
                     "type": {
                         "library": "H5P.DragQuestionDropzone 0.1"
-                    },
-                    "label": "<div>PERA<\/div>\n"
+                    }
                 },
                 {
                     "x": 32.258064516129032,
@@ -428,10 +428,10 @@
                     },
                     "single": true,
                     "autoAlign": true,
+                    "label": "<div>MA\u00c7\u00c3<\/div>\n",
                     "type": {
                         "library": "H5P.DragQuestionDropzone 0.1"
-                    },
-                    "label": "<div>MA\u00c7\u00c3<\/div>\n"
+                    }
                 },
                 {
                     "x": 69.354838709677423,
@@ -448,10 +448,10 @@
                     },
                     "single": true,
                     "autoAlign": true,
+                    "label": "<div>AMEIXA<\/div>\n",
                     "type": {
                         "library": "H5P.DragQuestionDropzone 0.1"
-                    },
-                    "label": "<div>AMEIXA<\/div>\n"
+                    }
                 },
                 {
                     "x": 87.096774193548384,
@@ -468,13 +468,14 @@
                     },
                     "single": true,
                     "autoAlign": true,
+                    "label": "<div>ABACAXI<\/div>\n",
                     "type": {
                         "library": "H5P.DragQuestionDropzone 0.1"
-                    },
-                    "label": "<div>ABACAXI<\/div>\n"
+                    }
                 }
             ]
-        }
+        },
+        "taskDescription": "MARQUE A CAIXA VAZIA:"
     },
     "overallFeedback": [
         {
