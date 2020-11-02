@@ -1,0 +1,318 @@
+{
+    "scoreShow": "Verificar resposta",
+    "tryAgain": "Tentar novamente",
+    "scoreExplanation": "Respostas corretas d\u00e3o +1 ponto. Respostas incorretas d\u00e3o -1 ponto. A menor pontua\u00e7\u00e3o poss\u00edvel \u00e9 0.",
+    "question": {
+        "settings": {
+            "size": {
+                "width": 620,
+                "height": 310
+            }
+        },
+        "task": {
+            "elements": [
+                {
+                    "x": 24.193548387096772,
+                    "y": 29.032258064516128,
+                    "width": 21.875,
+                    "height": 13.75,
+                    "dropZones": [],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f99e7d1afc84.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 497,
+                                "height": 584
+                            },
+                            "alt": "CASA"
+                        },
+                        "subContentId": "a5dd534c-91e6-42b1-b41a-2d6c13214690",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 1.6129032258064515,
+                    "y": 3.225806451612903,
+                    "width": 8.1250234374999994,
+                    "height": 3.75,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f99e81ac2767.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 720,
+                                "height": 368
+                            },
+                            "alt": "QUARTO"
+                        },
+                        "subContentId": "3f710eb0-1433-45b4-93dd-3f2436b74e1c",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 54.838709677419352,
+                    "y": 3.225806451612903,
+                    "width": 8.125,
+                    "height": 3.75,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f99e83352682.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 720,
+                                "height": 472
+                            },
+                            "alt": "BANHEIRO"
+                        },
+                        "subContentId": "9665213a-c2d2-493f-96f3-637a94c3e4f6",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 29.032258064516128,
+                    "y": 6.4516129032258061,
+                    "width": 6.4375,
+                    "height": 3.3125,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f99e8494bc61.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 718,
+                                "height": 332
+                            },
+                            "alt": "SALA"
+                        },
+                        "subContentId": "010387fa-d5ca-4bf2-aa96-e8ca27dcc76d",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                },
+                {
+                    "x": 80.645161290322577,
+                    "y": 6.4516129032258061,
+                    "width": 6.4375156249999996,
+                    "height": 3.3125,
+                    "dropZones": [
+                        "0",
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "type": {
+                        "library": "H5P.Image 1.1",
+                        "params": {
+                            "contentName": "Imagem",
+                            "file": {
+                                "path": "images\/file-5f99e85edd270.jpg ",
+                                "mime": "image\/jpeg",
+                                "copyright": {
+                                    "license": "U"
+                                },
+                                "width": 720,
+                                "height": 494
+                            },
+                            "alt": "COZINHA"
+                        },
+                        "subContentId": "4e1dfe15-2c8f-41b2-b950-f129e39e5d54",
+                        "metadata": {
+                            "contentType": "Image",
+                            "license": "U",
+                            "title": "Sem t\u00edtulo",
+                            "authors": [],
+                            "changes": []
+                        }
+                    },
+                    "backgroundOpacity": 0,
+                    "multiple": false
+                }
+            ],
+            "dropZones": [
+                {
+                    "x": 25.806451612903224,
+                    "y": 77.41935483870968,
+                    "width": 6.4375,
+                    "height": 3.3125,
+                    "correctElements": [
+                        "3"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>SALA<\/div>\n"
+                },
+                {
+                    "x": 59.677419354838705,
+                    "y": 77.41935483870968,
+                    "width": 6.4375,
+                    "height": 3.3125,
+                    "correctElements": [
+                        "4"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>COZINHA<\/div>\n"
+                },
+                {
+                    "x": 25.806451612903224,
+                    "y": 51.612903225806448,
+                    "width": 8.125,
+                    "height": 3.75,
+                    "correctElements": [
+                        "1"
+                    ],
+                    "showLabel": false,
+                    "backgroundOpacity": 0,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>QUARTO<\/div>\n"
+                },
+                {
+                    "x": 54.838709677419352,
+                    "y": 51.612903225806448,
+                    "width": 8.125,
+                    "height": 3.75,
+                    "correctElements": [
+                        "2"
+                    ],
+                    "showLabel": false,
+                    "tipsAndFeedback": {
+                        "tip": ""
+                    },
+                    "single": true,
+                    "autoAlign": true,
+                    "type": {
+                        "library": "H5P.DragQuestionDropzone 0.1"
+                    },
+                    "label": "<div>BANHEIRO<\/div>\n",
+                    "backgroundOpacity": 0
+                }
+            ]
+        }
+    },
+    "overallFeedback": [
+        {
+            "from": 0,
+            "to": 100
+        }
+    ],
+    "behaviour": {
+        "enableRetry": true,
+        "enableCheckButton": true,
+        "showSolutionsRequiresInput": true,
+        "singlePoint": false,
+        "applyPenalties": true,
+        "enableScoreExplanation": true,
+        "dropZoneHighlighting": "dragging",
+        "autoAlignSpacing": 2,
+        "enableFullScreen": false,
+        "showScorePoints": true,
+        "showTitle": true
+    },
+    "grabbablePrefix": "Arrast\u00e1vel {num} de {total}.",
+    "grabbableSuffix": "Posicionado na zona de largada {num}.",
+    "dropzonePrefix": "Zona de largada {num} de {total}.",
+    "noDropzone": "Nenhuma zona de largada selecionada.",
+    "tipLabel": "Mostrar dica.",
+    "tipAvailable": "Dica dispon\u00edvel",
+    "correctAnswer": "Resposta correta",
+    "wrongAnswer": "Resposta incorreta",
+    "feedbackHeader": "Feedback",
+    "scoreBarLabel": "Voc\u00ea marcou :num de :total pontos",
+    "scoreExplanationButtonLabel": "Mostrar explica\u00e7\u00e3o da pontua\u00e7\u00e3o",
+    "localize": {
+        "fullscreen": "Tela cheia",
+        "exitFullscreen": "Sair da tela cheia"
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "taskDescription": "FORME PARES COM OS VEGETAIS CORRETOS.",
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5f99e68047c3f.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 334,
+                "height": 250
+            },
+            "imageAlt": "LARANJA AMPLIADA",
+            "match": {
+                "path": "images\/match-5f99e695717ef.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 334,
+                "height": 257
+            },
+            "matchAlt": "LARANJA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f99e6a584841.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 340,
+                "height": 252
+            },
+            "imageAlt": "ABACAXI AMPLIADO",
+            "match": {
+                "path": "images\/match-5f99e6b41c751.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 340,
+                "height": 251
+            },
+            "matchAlt": "ABACAXI"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f99e6c378b56.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 340,
+                "height": 249
+            },
+            "imageAlt": "BR\u00d3COLIS AMPLIADO",
+            "match": {
+                "path": "images\/match-5f99e6d519482.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 340,
+                "height": 253
+            },
+            "matchAlt": "BR\u00d3COLIS"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f99e6ea8f13c.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 340,
+                "height": 250
+            },
+            "imageAlt": "AMORA AMPLIADA",
+            "match": {
+                "path": "images\/match-5f99e6f7d382d.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 340,
+                "height": 257
+            },
+            "matchAlt": "AMORA"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f99e709b6667.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 339,
+                "height": 247
+            },
+            "imageAlt": "MILHO AMPLIADO",
+            "match": {
+                "path": "images\/match-5f99e718b1a1d.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 341,
+                "height": 258
+            },
+            "matchAlt": "MILHO"
+        },
+        {
+            "image": {
+                "path": "images\/image-5f99e725f2a00.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 357,
+                "height": 264
+            },
+            "imageAlt": "MORANGO AMPLIADO",
+            "match": {
+                "path": "images\/match-5f99e736de801.jpg ",
+                "mime": "image\/jpeg",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 364,
+                "height": 247
+            },
+            "matchAlt": "MORANGO"
+        }
+    ],
+    "behaviour": false,
+    "l10n": {
+        "checkAnswer": "Check",
+        "tryAgain": "Retry",
+        "showSolution": "Show Solution",
+        "score": "You got @score of @total points"
+    }
+}
