@@ -303,7 +303,7 @@
         "autoAlignSpacing": 2,
         "enableFullScreen": false,
         "showScorePoints": true,
-        "showTitle": false
+        "showTitle": true
     },
     "grabbablePrefix": "Arrast\u00e1vel {num} de {total}.",
     "grabbableSuffix": "Posicionado na zona de largada {num}.",
