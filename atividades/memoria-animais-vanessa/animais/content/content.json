@@ -1,0 +1,138 @@
+{
+    "cards": [
+        {
+            "image": {
+                "path": "images\/image-5fb2f27f838d8.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 640,
+                "height": 491
+            },
+            "imageAlt": "CAVALO",
+            "match": {
+                "path": "images\/match-5fb2f58eb6948.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 550,
+                "height": 763
+            },
+            "matchAlt": "CAVALO",
+            "description": "PARAB\u00c9NS!!!"
+        },
+        {
+            "image": {
+                "path": "images\/image-5fb2f2e9a5ac5.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 506,
+                "height": 800
+            },
+            "match": {
+                "path": "images\/match-5fb2f5b4215fa.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 546,
+                "height": 763
+            },
+            "imageAlt": "GALO",
+            "matchAlt": "GALO",
+            "description": "PARAB\u00c9NS!!!"
+        },
+        {
+            "imageAlt": "CAN\u00c1RIOS",
+            "image": {
+                "path": "images\/image-5fb2f5fb37941.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 1350,
+                "height": 939
+            },
+            "match": {
+                "path": "images\/match-5fb2f78f11d9e.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 550,
+                "height": 763
+            },
+            "matchAlt": "CAN\u00c1RIOS",
+            "description": "PARAB\u00c9NS!!!"
+        },
+        {
+            "image": {
+                "path": "images\/image-5fb2f6695105d.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 800,
+                "height": 1405
+            },
+            "match": {
+                "path": "images\/match-5fb2f6a7f3043.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 546,
+                "height": 763
+            },
+            "imageAlt": "GATO",
+            "matchAlt": "GATO",
+            "description": "PARAB\u00c9NS!!!"
+        },
+        {
+            "imageAlt": "CACHORRO",
+            "match": {
+                "path": "images\/match-5fb2f70291a8e.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 546,
+                "height": 763
+            },
+            "image": {
+                "path": "images\/image-5fb2f716deab2.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 800,
+                "height": 800
+            },
+            "description": "PARAB\u00c9NS!!!",
+            "matchAlt": "CACHORRO"
+        }
+    ],
+    "behaviour": {
+        "useGrid": true,
+        "allowRetry": true
+    },
+    "lookNFeel": {
+        "themeColor": "#909090"
+    },
+    "l10n": {
+        "cardTurns": "Cart\u00e3o virou",
+        "timeSpent": "Tempo gasto",
+        "feedback": "Bom trabalho!",
+        "tryAgain": "Tentar novamente?",
+        "closeLabel": "Fechar",
+        "label": "Jogo da mem\u00f3ria. Forme pares de cart\u00f5es.",
+        "done": "Todas os cart\u00f5es foram encontrados.",
+        "cardPrefix": "Cart\u00e3o %num:",
+        "cardUnturned": "N\u00e3o virado.",
+        "cardMatched": "Combina\u00e7\u00e3o encontrada."
+    }
+}
