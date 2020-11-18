@@ -17,8 +17,8 @@
 
     #h5p-container {
       max-width: 800px;
-      min-width: 60%;
-      height:100%;
+      max-height: 600px;
+      width: 100%;
     }
   </style>
 </head>
@@ -32,7 +32,7 @@
     const {
       H5P
     } = H5PStandalone;
-    new H5P(document.getElementById('h5p-container'), 'animal', {
+    new H5P(document.getElementById('h5p-container'), 'prato', {
       frameJs: 'dist/frame.bundle.js',
       frameCss: 'dist/styles/h5p.css'
     });
