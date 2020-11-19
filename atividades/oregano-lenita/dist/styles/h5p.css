@@ -18,6 +18,7 @@ html.h5p-iframe, html.h5p-iframe > body {
   height: 100%;
   margin: 0;
   padding: 0;
+  overflow: hidden !important; 
 }
 .h5p-semi-fullscreen, .h5p-fullscreen, html.h5p-iframe .h5p-container {
   overflow: hidden;

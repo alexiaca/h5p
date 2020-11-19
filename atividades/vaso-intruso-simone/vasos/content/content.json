@@ -1,0 +1,37 @@
+{
+    "imageHotspotQuestion": {
+        "hotspotSettings": {
+            "hotspot": [
+                {
+                    "userSettings": {
+                        "correct": true,
+                        "feedbackText": ""
+                    },
+                    "computedSettings": {
+                        "x": 64.728655133928569,
+                        "y": 42.084168336673343,
+                        "width": 17.857142857142854,
+                        "height": 22.025300601202403,
+                        "figure": "rectangle"
+                    }
+                }
+            ],
+            "showFeedbackAsPopup": true,
+            "l10n": {
+                "retryText": "Tentar novamente",
+                "closeText": "Fechar"
+            },
+            "taskDescription": "CLIQUE NO VASO DE PLANTA DIFERENTE."
+        },
+        "backgroundImageSettings": {
+            "path": "images\/backgroundImage-5fb6b68d3519f.jpg",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 422,
+            "height": 470
+        }
+    },
+    "scoreBarLabel": "Voc\u00ea marcou :num out de :total pontos"
+}
