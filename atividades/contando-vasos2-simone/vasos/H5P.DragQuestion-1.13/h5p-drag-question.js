@@ -642,7 +642,7 @@
         }
         return e
     }, o.prototype.getTitle = function () {
-        return H5P.createTitle(this.contentData && this.contentData.metadata && this.contentData.metadata.title ? this.contentData.metadata.title : "Drag and drop")
+        return H5P.createTitle(this.contentData && this.contentData.metadata && this.contentData.metadata.title ? this.contentData.metadata.title : "CONTE OS VASOS DE PLANTA E COLOQUE O NUMERAL CORRETO DENTRO DA CAIXINHA.")
     };
     var k = function (e, t, n) {
         var i = {
