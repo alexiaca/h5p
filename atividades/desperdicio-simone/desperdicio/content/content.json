@@ -1,0 +1,89 @@
+{
+    "imageMultipleHotspotQuestion": {
+        "backgroundImageSettings": {
+            "questionTitle": "CLIQUE NAS SITUA\u00c7\u00d5ES DE DESPERD\u00cdCIO",
+            "backgroundImage": {
+                "path": "images\/backgroundImage-5fbadf0836c7c.png ",
+                "mime": "image\/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 1283,
+                "height": 732
+            }
+        },
+        "hotspotSettings": {
+            "hotspot": [
+                {
+                    "userSettings": {
+                        "correct": true,
+                        "feedbackText": ""
+                    },
+                    "computedSettings": {
+                        "x": 26.532079646017696,
+                        "y": 3.1055900621118009,
+                        "width": 23.008849557522122,
+                        "height": 24.844720496894407,
+                        "figure": "rectangle"
+                    }
+                },
+                {
+                    "userSettings": {
+                        "correct": true,
+                        "feedbackText": ""
+                    },
+                    "computedSettings": {
+                        "x": 75.921830709001654,
+                        "y": 3.1055900621118009,
+                        "width": 23.008849557522122,
+                        "height": 24.844720496894407,
+                        "figure": "rectangle"
+                    }
+                },
+                {
+                    "userSettings": {
+                        "correct": true,
+                        "feedbackText": ""
+                    },
+                    "computedSettings": {
+                        "x": 1.7699115044247786,
+                        "y": 34.161490683229815,
+                        "width": 23.008849557522122,
+                        "height": 24.844720496894407,
+                        "figure": "rectangle"
+                    }
+                },
+                {
+                    "userSettings": {
+                        "correct": true,
+                        "feedbackText": ""
+                    },
+                    "computedSettings": {
+                        "x": 53.066006550746678,
+                        "y": 37.267080745341616,
+                        "width": 19.469026548672566,
+                        "height": 21.758540372670804,
+                        "figure": "rectangle"
+                    }
+                },
+                {
+                    "userSettings": {
+                        "correct": true,
+                        "feedbackText": ""
+                    },
+                    "computedSettings": {
+                        "x": 28.318584070796458,
+                        "y": 68.322981366459629,
+                        "width": 23.008849557522122,
+                        "height": 24.844720496894407,
+                        "figure": "rectangle"
+                    }
+                }
+            ],
+            "taskDescription": "OBSERVE AS IMAGENS E CLIQUE NAS SITUA\u00c7\u00d5ES DE DESPERD\u00cdCIO.",
+            "numberHotspots": 5,
+            "noneSelectedFeedback": "TEM CERTEZA? QUER TENTAR NOVAMENTE?",
+            "alreadySelectedFeedback": "PARAB\u00c9NS!!! VAMOS DIZER N\u00c3O AO DESPERD\u00cdCIO!"
+        }
+    }
+}
