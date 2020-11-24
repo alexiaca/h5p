@@ -258,7 +258,7 @@
             scoreExplanationButtonLabel: "Show score explanation",
             question: {
                 settings: {
-                    questionTitle: this.contentData && this.contentData.metadata && this.contentData.metadata.title ? this.contentData.metadata.title : "LEVE AOS PROFESSORAS ATÉ O APARTAMENTO QUE ELAS MORAM.",
+                    questionTitle: this.contentData && this.contentData.metadata && this.contentData.metadata.title ? this.contentData.metadata.title : "LEVE AS PROFESSORAS ATÉ O APARTAMENTO QUE ELAS MORAM.",
                     size: {
                         width: 620,
                         height: 310
@@ -642,7 +642,7 @@
         }
         return e
     }, o.prototype.getTitle = function () {
-        return H5P.createTitle(this.contentData && this.contentData.metadata && this.contentData.metadata.title ? this.contentData.metadata.title : "LEVE AOS PROFESSORAS ATÉ O APARTAMENTO QUE ELAS MORAM.")
+        return H5P.createTitle(this.contentData && this.contentData.metadata && this.contentData.metadata.title ? this.contentData.metadata.title : "LEVE AS PROFESSORAS ATÉ O APARTAMENTO QUE ELAS MORAM.")
     };
     var k = function (e, t, n) {
         var i = {
