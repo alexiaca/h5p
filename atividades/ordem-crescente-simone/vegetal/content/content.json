@@ -1,0 +1,67 @@
+{
+    "taskDescription": "ARRUME OS VASOS DE PLANTA NA ORDEM CRESCENTE (DO MENOR PARA O MAIOR).",
+    "altTaskDescription": "Make the following list be ordered correctly. Use the cursor keys to navigate through the list items, use space to activate or deactivate an item and the cursor keys to move it",
+    "sequenceImages": [{
+        "image": {
+            "path": "images\/image-5fbe56f250b03.jpg ",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 467,
+            "height": 601
+        },
+        "imageDescription": "VASO A"
+    }, {
+        "image": {
+            "path": "images\/image-5fbe571d71db1.jpg ",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 467,
+            "height": 601
+        },
+        "imageDescription": "VASO B"
+    }, {
+        "image": {
+            "path": "images\/image-5fbe572d31147.jpg ",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 467,
+            "height": 601
+        },
+        "imageDescription": "VASO C"
+    }, {
+        "image": {
+            "path": "images\/image-5fbe573b6361e.jpg ",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 467,
+            "height": 601
+        },
+        "imageDescription": "VASO D"
+    }],
+    "behaviour": {
+        "enableSolution": true,
+        "enableRetry": true,
+        "enableResume": true
+    },
+    "l10n": {
+        "totalMoves": "Total Moves",
+        "timeSpent": "Time spent",
+        "score": "You got @score of @total points",
+        "checkAnswer": "Check",
+        "tryAgain": "Retry",
+        "showSolution": "ShowSolution",
+        "resume": "Resume",
+        "audioNotSupported": "Audio Error",
+        "ariaPlay": "Play the corresponding audio",
+        "ariaMoveDescription": "Moved @cardDesc from @posSrc to @posDes",
+        "ariaCardDesc": "sequencing item"
+    }
+}
