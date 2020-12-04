@@ -1,0 +1,43 @@
+<html>
+
+<head>
+  <link type="text/css" rel="stylesheet" media="all" href="dist/styles/h5p.css" />
+  <link href="https://fonts.google.com/specimen/Patrick+Hand?selection.family=Acme#standard-styles">
+  <meta charset="utf-8" />
+  <script type="text/javascript" src="dist/main.bundle.js"></script>
+
+  <style>
+    .container {
+      align-items: center;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    #h5p-container {
+      max-width: 800px;
+      max-height: 600px;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- <center><h2>A BOLA ESTÁ DO LADO DIREITO OU DO LADO ESQUERDO DA LUCIANA? MARQUE A RESPOSTA CERTA.</h2></center> -->
+  <div class="container">
+    <div id="h5p-container"></div>
+  </div>
+
+  <script type="text/javascript">
+    const {
+      H5P
+    } = H5PStandalone;
+    new H5P(document.getElementById('h5p-container'), 'dancas', {
+      frameJs: 'dist/frame.bundle.js',
+      frameCss: 'dist/styles/h5p.css'
+    });
+  </script>
+</body>
+
+</html>

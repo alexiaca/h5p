@@ -1,0 +1,36 @@
+{
+    "imageHotspotQuestion": {
+        "hotspotSettings": {
+            "hotspot": [{
+                "userSettings": {
+                    "correct": true,
+                    "feedbackText": "MUITO BEM!"
+                },
+                "computedSettings": {
+                    "x": 50.228310502283101,
+                    "y": 19.675245098039216,
+                    "width": 13.698630136986301,
+                    "height": 41.176470588235297,
+                    "figure": "rectangle"
+                }
+            }],
+            "showFeedbackAsPopup": true,
+            "l10n": {
+                "retryText": "Tentar novamente",
+                "closeText": "Fechar"
+            },
+            "taskDescription": "MARQUE O MORADOR QUE EST\u00c1 NA POSI\u00c7\u00c3O DIFERENTE DOS OUTROS.",
+            "noneSelectedFeedback": "TENTE NOVAMENTE."
+        },
+        "backgroundImageSettings": {
+            "path": "images\/backgroundImage-5fc96afd153af.jpg",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 751,
+            "height": 584
+        }
+    },
+    "scoreBarLabel": "Voc\u00ea marcou :num out de :total pontos"
+}
