@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="parent">
+        <span class="button" id="b1" onclick="reveal('a1', this.id)"></span>
+        <span class="answer" id="a1" onclick="reveal('b1', this.id)"></span>
+
+        <span class="button" id="b2" onclick="reveal('a2', this.id)"></span>
+        <span class="answer" id="a2" onclick="reveal('b2', this.id)"></span>
+
+        <span class="button" id="b3" onclick="reveal('a3', this.id)"></span>
+        <span class="answer" id="a3" onclick="reveal('b3', this.id)"></span>
+
+        <span class="button" id="b4" onclick="reveal('a4', this.id)"></span>
+        <span class="answer" id="a4" onclick="reveal('b4', this.id)"></span>
+
+        <span class="button" id="b5" onclick="reveal('a5', this.id)"></span>
+        <span class="answer" id="a5" onclick="reveal('b5', this.id)"></span>
+
+        <span class="button" id="b6" onclick="reveal('a6', this.id)"></span>
+        <span class="answer" id="a6" onclick="reveal('b6', this.id)"></span>
+
+        <span class="button" id="b7" onclick="reveal('a7', this.id)"></span>
+        <span class="answer" id="a7" onclick="reveal('b7', this.id)"></span>
+
+        <span class="button" id="b8" onclick="reveal('a8', this.id)"></span>
+        <span class="answer" id="a8" onclick="reveal('b8', this.id)"></span>
+
+        <span class="button" id="b9" onclick="reveal('a9', this.id)"></span>
+        <span class="answer" id="a9" onclick="reveal('b9', this.id)"></span>
+
+        <span class="button" id="b10" onclick="reveal('a10', this.id)"></span>
+        <span class="answer" id="a10" onclick="reveal('b10', this.id)"></span>
+      </div>
+      <script>
+          function reveal(showId, hideId) {
+              document.getElementById(hideId).style.display = "none";
+              document.getElementById(showId).style.display = "inline-block";
+          }
+      </script>
+</body>
+</html>

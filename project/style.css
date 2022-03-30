@@ -1,0 +1,166 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 300vh;
+    background-image: url('images/p01.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top left;
+    background-size: 100% 100%;
+}
+
+.button {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: rgb(245, 245, 25);
+    display: inline-block;
+}
+
+.answer {
+    position: absolute;
+    width: 230px;
+    height: 800px;
+    border-radius: 20px;
+    background-color: rgb(249, 246, 246,0);
+    display: none;
+}
+
+/* Buttons and Answers */
+
+#b1 {
+    top: 750px;
+    left: 240px;
+}
+
+#a1 {
+    top: 50px;
+    left: 85px;
+    background-size: 100% 100%;
+    background-image: url(images/p01-1.png)
+}
+
+#b2 {
+    top: 470px;
+    left: 650px;    
+}
+
+#a2 {
+    top: 470px;
+    left: 68px;
+    width: 647px;
+    height: 360px;
+    background-size: 100% 100%;
+    background-image: url(images/p01-2.png)
+}
+
+#b3 {
+    top: 400px;
+    left: 870px;    
+}
+
+#a3 {
+    top: 406px;
+    left: 750px;
+    width: 250px;
+    height: 1008px;
+    background-size: 100% 100%;
+    background-image: url(images/p01-3.png)
+}
+
+#b4 {
+    top: 750px;
+    left: 1150px;    
+}
+
+#a4 {
+    width: 374px;
+    height: 419px;
+    top: 401px;
+    left: 994px;
+    background-size: 100% 100%;
+    background-image: url(images/p01-4.png)
+}
+
+#b5 {
+    top: 1045px;
+    left: 55px;    
+}
+
+#a5 {
+    width: 599px;
+    height: 406px;
+    top: 990px;
+    left: 80px;
+    background-size: 100% 100%;
+    background-image: url(images/p01-5.png)
+}
+
+#b6 {
+    top: 965px;
+    left: 572px;    
+}
+
+#a6 {
+    width: 373px;
+    height: 846px;
+    top: 975px;
+    left: 510px;
+    background-size: 100% 100%;
+    background-image: url(images/p01-6.png)
+}
+
+#b7 {
+    top: 878px;
+    left: 998px;    
+}
+
+#b8  {
+    top: 1553px;
+    left: 264px;    
+}
+
+#a8 {
+    width: 1075px;
+    height: 171px;
+    left: 314px;
+    top: 1522px;
+    background-size: 100% 100%;
+    background-image: url(images/p01-8-1.png)
+}
+
+#b9  {
+    top: 1750px;
+    left: 437px;    
+}
+
+#a9 {
+    width: 475px;
+    height: 474px;
+    top: 1617px;
+    left: 412px;
+    background-size: 100% 100%;
+    background-image: url(images/p01-9.png)
+}
+
+#b10  {
+    top: 1697px;
+    left: 990px;    
+}
+
+#a10 {
+    width: 398px;
+    height: 646px;
+    left: 939px;
+    top: 1464px;
+    background-size: 100% 100%;
+    background-image: url(images/p01-10.png)
+}
